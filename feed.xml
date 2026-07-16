@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-16 04:10">
+<yml_catalog date="2026-07-16 04:11">
   <shop>
     <name>ОрионАвто</name>
     <company>ОрионАвто Автосалон Тюмень</company>
@@ -285,270 +285,6 @@
         <vendorCode>8062543380</vendorCode>
         <param name="Короткое описание">192 662 км; Тюменская обл., Тюмень</param>
       </offer>
-      <offer id="8126445651" available="true">
-        <name>Nissan X-Trail 2.0 CVT, 2013, 149 400 км</name>
-        <price>1550000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://50.img.avito.st/image/1/1.fZrSP7aA0XO8nwtypFIG9_2f03dgiNVzYO-wd2BE0KlnnNVpvJ8LcmQ.sGUaIIPw25LoiIs_0U2F-WHModVXrEctHu42F7y76Rs</picture>
-        <description>Nissan X-Trail 2.0 CVT, 2013, 149 400 км Город: Тюменская обл., Тюмень. Цена: 1550000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8126445651</vendorCode>
-        <param name="Короткое описание">149 400 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8126388048" available="true">
-        <name>Daewoo Nexia 1.5 MT, 2013, 130 247 км</name>
-        <price>250000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://60.img.avito.st/image/1/1.LLjKLraAgFGkjlpQngZtqeSOglV4mYRReP7hVXhVgYt_jYRLpI5aUHw.EeNL99M6T26agILhEP82aj508h8xfLIt0J3yKsscYyw</picture>
-        <description>Daewoo Nexia 1.5 MT, 2013, 130 247 км Город: Тюменская обл., Тюмень. Цена: 250000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8126388048</vendorCode>
-        <param name="Короткое описание">130 247 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8126195738" available="true">
-        <name>ВАЗ (LADA) Granta Cross 1.6 MT, 2021, 44 885 км</name>
-        <price>750000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://20.img.avito.st/image/1/1.bsDifLaAwimM3BgoslUv0c3cwC1Qy8YpUKyjLVAHw_NX38YzjNwYKFQ.YDqq-HIw_tXUOLSP1zOw0MAXV3gxhKBncFAy2VeXSI8?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>ВАЗ (LADA) Granta Cross 1.6 MT, 2021, 44 885 км Город: Тюменская обл., Тюмень. Цена: 750000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8126195738</vendorCode>
-        <param name="Короткое описание">44 885 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8062742319" available="true">
-        <name>Lexus ES 2.5 AT, 2018, 105 273 км</name>
-        <price>3500000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://90.img.avito.st/image/1/1.1Cq8graAeMPSIqLCmPWnCpgiescONXzDDlIZxw75eRkJIXzZ0iKiwgo.YXYgHVcTbMStb0K4iqq4O7YG9cyFrYNNuGkNkkfT10M</picture>
-        <description>Lexus ES 2.5 AT, 2018, 105 273 км Город: Тюменская обл., Тюмень. Цена: 3500000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8062742319</vendorCode>
-        <param name="Короткое описание">105 273 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8158612847" available="true">
-        <name>Skoda Octavia 1.4 AMT, 2019, 174 842 км</name>
-        <price>1940000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://80.img.avito.st/image/1/1.0dLNvraAfTujHqc647Gh0eAefz9_CXk7f24cP3_FfOF4HXkhox6nOns.uGSlvH5DHMHGWNA_NbkroySRm2nVFVVPrqRmO7qAU1s</picture>
-        <description>Skoda Octavia 1.4 AMT, 2019, 174 842 км Город: Тюменская обл., Тюмень. Цена: 1940000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8158612847</vendorCode>
-        <param name="Короткое описание">174 842 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="7966580763" available="true">
-        <name>Toyota Land Cruiser 4.2 MT, 1994, 529 229 км</name>
-        <price>1390000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://60.img.avito.st/image/1/1.ifxbwraAJRU1Yv8URaj_9GpiJxHpdSEV6RJEEem5JM_uYSEPNWL_FO0.9Dxo2CJaqEkqaQgu07CZnQWH8MZmAGp5kIrWFfs6648</picture>
-        <description>Toyota Land Cruiser 4.2 MT, 1994, 529 229 км Город: Тюменская обл., Тюмень. Цена: 1390000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>7966580763</vendorCode>
-        <param name="Короткое описание">529 229 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8126388195" available="true">
-        <name>Nissan Almera 1.4 MT, 1999, 292 877 км</name>
-        <price>350000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://50.img.avito.st/image/1/1.5sESRraASih85pApUgWmzz3mSCyg8U4ooJYrLKA9S_Kn5U4yfOaQKaQ.ZtnPcFI9-5trEUunRYvNuS7BhJK30lAYOdBCKcLug5k</picture>
-        <description>Nissan Almera 1.4 MT, 1999, 292 877 км Город: Тюменская обл., Тюмень. Цена: 350000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8126388195</vendorCode>
-        <param name="Короткое описание">292 877 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="7198643845" available="true">
-        <name>Nissan AD 1.5 AT, 2017, 64 000 км</name>
-        <price>900000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://00.img.avito.st/image/1/1._Bo0TraAUPNa7oryQBn4CQnuUveG-VTzhp4x94Y1USmB7VTpWu6K8oI.fvcl46MKelHWDmXUC6erE73Up5VQjlsUjOiOsK8pEIM?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>Nissan AD 1.5 AT, 2017, 64 000 км Город: Тюменская обл., Тюмень. Цена: 900000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>7198643845</vendorCode>
-        <param name="Короткое описание">64 000 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8094767501" available="true">
-        <name>Hyundai Solaris 1.4 AT, 2019, 162 380 км</name>
-        <price>1210000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://30.img.avito.st/image/1/1.kTUd1LaAPdxzdOfdM_aLfz10P9ivYzncrwRc2K-vPAaodznGc3Tn3as.OTFXBRH5xx-d6s0b1eAif2jHS_i8l4SggY81oXpcuw8?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>Hyundai Solaris 1.4 AT, 2019, 162 380 км Город: Тюменская обл., Тюмень. Цена: 1210000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8094767501</vendorCode>
-        <param name="Короткое описание">162 380 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8126735216" available="true">
-        <name>Mercedes-Benz GL-класс 5.5 AT, 2009, 429 684 км</name>
-        <price>1440000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://30.img.avito.st/image/1/1.-L-7ZbaAVFbVxY5Xx3LV6pfFVlIJ0lBWCbU1UgkeVYwOxlBM1cWOVw0.mC8X_hHLeNms4yIHvjqQrRAMPbwLYLKZGvMkkO1zF1U?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>Mercedes-Benz GL-класс 5.5 AT, 2009, 429 684 км Город: Тюменская обл., Тюмень. Цена: 1440000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8126735216</vendorCode>
-        <param name="Короткое описание">429 684 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8029957834" available="true">
-        <name>Toyota Land Cruiser 4.6 AT, 2020, 151 526 км</name>
-        <price>8500000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://20.img.avito.st/image/1/1.YbfxtLaAzV6fFBdfv4Fz8coUz1pDA8leQ2SsWkPPzIREF8lEnxQXX0c.eKxpgDfvQjAT3WVXRoCu-2VUv7YCygTAvUHr8M5HfqY?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>Toyota Land Cruiser 4.6 AT, 2020, 151 526 км Город: Тюменская обл., Тюмень. Цена: 8500000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8029957834</vendorCode>
-        <param name="Короткое описание">151 526 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8030264162" available="true">
-        <name>Datsun on-DO 1.6 MT, 2019, 206 844 км</name>
-        <price>449000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://30.img.avito.st/image/1/1.c2qjEraA34PNsgWCyXNRDpiy3YcRpduDEcK-hxFp3lkWsduZzbIFghU.H5JB2BVmo3AMm-qT6Ff--OCe0D_8hqTjwhntvn2YiMw?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>Datsun on-DO 1.6 MT, 2019, 206 844 км Город: Тюменская обл., Тюмень. Цена: 449000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8030264162</vendorCode>
-        <param name="Короткое описание">206 844 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8094812980" available="true">
-        <name>Skoda Octavia 1.6 MT, 2008, 275 255 км</name>
-        <price>499000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://60.img.avito.st/image/1/1.W40oCraA92RGqi1lEgsbmguq9WCavfNkmtqWYJpx9r6dqfN-RqotZZ4.-C-VkfjL9mo7E6JEFx8B7kqLhC4x5uBSS-avq5NU8gM</picture>
-        <description>Skoda Octavia 1.6 MT, 2008, 275 255 км Город: Тюменская обл., Тюмень. Цена: 499000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8094812980</vendorCode>
-        <param name="Короткое описание">275 255 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="7934219719" available="true">
-        <name>Opel Antara 2.2 MT, 2013, 161 287 км</name>
-        <price>1050000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://10.img.avito.st/image/1/1.a5aMXLaAx3_i_B1-1lVCjLn8xXs-68N_Poymez4nxqU5_8Nl4vwdfjo.HzOGhu1njRAU23rB3JyuxbOn5bs_ADv8HtpP6jG_xeQ?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>Opel Antara 2.2 MT, 2013, 161 287 км Город: Тюменская обл., Тюмень. Цена: 1050000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>7934219719</vendorCode>
-        <param name="Короткое описание">161 287 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="7998124606" available="true">
-        <name>Lexus IS 2.5 AT, 2007, 275 800 км</name>
-        <price>1299900</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://20.img.avito.st/image/1/1.C_0IeraApxRm2n0VEg5ahjTapRC6zaMUuqrGELoBps692aMOZtp9Fb4.dAGiTN3qNHcqgSxC-xJVD767tCkUHvSBeK099dHOWVM?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>Lexus IS 2.5 AT, 2007, 275 800 км Город: Тюменская обл., Тюмень. Цена: 1299900 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>7998124606</vendorCode>
-        <param name="Короткое описание">275 800 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8094374759" available="true">
-        <name>BMW X6 M 4.4 AT, 2011, 217 753 км</name>
-        <price>2100000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://80.img.avito.st/image/1/1.50StU7aAS63D85Gs72TvGI3zSakf5E-tH4MqqR8oSncY8E-3w_ORrBs.ZYUYIy9kgSMrS3gD0X1ZsgNZOGctHhK1nUmf7Nl_72A</picture>
-        <description>BMW X6 M 4.4 AT, 2011, 217 753 км Город: Тюменская обл., Тюмень. Цена: 2100000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8094374759</vendorCode>
-        <param name="Короткое описание">217 753 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8062049519" available="true">
-        <name>Nissan Murano 3.5 CVT, 2010, 256 256 км</name>
-        <price>999000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://70.img.avito.st/image/1/1.q5Dw8baAB3meUd14qu-dichRBX1CRgN5QiFmfUKKBqNFUgNjnlHdeEY.GbozbMWlu6t3yy6HBBFDBcC-zgSGrixvQavAQ9S36fs</picture>
-        <description>Nissan Murano 3.5 CVT, 2010, 256 256 км Город: Тюменская обл., Тюмень. Цена: 999000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8062049519</vendorCode>
-        <param name="Короткое описание">256 256 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="7934176770" available="true">
-        <name>LIFAN Solano 1.5 CVT, 2015, 98 955 км</name>
-        <price>500000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://30.img.avito.st/image/1/1.p6NzW7aAC0od-9FLMQXjxUb7CU7B7A9KwYtqTsEgCpDG-A9QHfvRS8U.5bGh5hTzEH4fxawl7YA143slSWinEbkRwI6a6MjB3Ls?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>LIFAN Solano 1.5 CVT, 2015, 98 955 км Город: Тюменская обл., Тюмень. Цена: 500000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>7934176770</vendorCode>
-        <param name="Короткое описание">98 955 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8062264442" available="true">
-        <name>Mercedes-Benz GLA-класс 1.3 AMT, 2020, 91 804 км</name>
-        <price>2990000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://50.img.avito.st/image/1/1._4rYRLaAU2O25Iliqk-dlfzkUWdq81djapQyZ2o_Urlt51d5tuSJYm4.X0M1lPuNo86MnpWxpsKERB3mSGEG5l0fJNqaexkFQEs</picture>
-        <description>Mercedes-Benz GLA-класс 1.3 AMT, 2020, 91 804 км Город: Тюменская обл., Тюмень. Цена: 2990000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8062264442</vendorCode>
-        <param name="Короткое описание">91 804 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="7934401433" available="true">
-        <name>OMODA C5 1.5 CVT, 2025, 4 223 км</name>
-        <price>2350000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://80.img.avito.st/image/1/1.Cke_gLaApq7RIHyvp7x8ao0gpKoNN6KuDVDHqg37p3QKI6K00SB8rwk.48Yneid0lHJJWXO3hJ8JnP6RhGMR3GWI6bCDg0DFe5c</picture>
-        <description>OMODA C5 1.5 CVT, 2025, 4 223 км Город: Тюменская обл., Тюмень. Цена: 2350000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>7934401433</vendorCode>
-        <param name="Короткое описание">4 223 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="7934084592" available="true">
-        <name>Audi Q7 3.0 AT, 2012, 202 893 км</name>
-        <price>2100000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://30.img.avito.st/image/1/1.4nOM7LaATpriTJSbxKuYT7lMTJ4-W0qaPjwvnj6XT0A5T0qA4kyUmzo.dwaweb_a2EIpXj9433ipxL3hCvI8b7M0I0PHh4aXNXY?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>Audi Q7 3.0 AT, 2012, 202 893 км Город: Тюменская обл., Тюмень. Цена: 2100000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>7934084592</vendorCode>
-        <param name="Короткое описание">202 893 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8126221535" available="true">
-        <name>Volkswagen Beetle 1.2 AMT, 2014, 129 110 км</name>
-        <price>1720000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://30.img.avito.st/image/1/1.9XFy_baAWZgcXYOZFObMXVNdW5zASl2YwC04nMCGWELHXl2CHF2DmcQ.H1wDLUEC9BfEE3KxiIU7qyrN09usm8N8PADguVxtlug?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
-        <description>Volkswagen Beetle 1.2 AMT, 2014, 129 110 км Город: Тюменская обл., Тюмень. Цена: 1720000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8126221535</vendorCode>
-        <param name="Короткое описание">129 110 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="7934733863" available="true">
-        <name>Toyota Probox 1.5 CVT, 2017, 107 308 км</name>
-        <price>1230000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://40.img.avito.st/image/1/1.i22ObLaAJ4TgzP2FlH6NLrzMJYA82yOEPLxGgDwXJl47zyOe4Mz9hTg.-mqHVW1apoZKJd8PJWJJKlxnpzFe_KKT9Dka-ZjiLoE</picture>
-        <description>Toyota Probox 1.5 CVT, 2017, 107 308 км Город: Тюменская обл., Тюмень. Цена: 1230000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>7934733863</vendorCode>
-        <param name="Короткое описание">107 308 км; Тюменская обл., Тюмень</param>
-      </offer>
-      <offer id="8062707470" available="true">
-        <name>Kia Soul 2.0 AT, 2019, 107 448 км</name>
-        <price>2050000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://70.img.avito.st/image/1/1.UYf7_7aA_W6VXydv1cpwiMJf_2pJSPluSS-cakmE_LROXPl0lV8nb00.QzSIjIhOnBEYdCkk_n4pa0qPAxvxL41HgOg0cbeHREs</picture>
-        <description>Kia Soul 2.0 AT, 2019, 107 448 км Город: Тюменская обл., Тюмень. Цена: 2050000 руб.</description>
-        <vendor>ОрионАвто</vendor>
-        <vendorCode>8062707470</vendorCode>
-        <param name="Короткое описание">107 448 км; Тюменская обл., Тюмень</param>
-      </offer>
       <offer id="8158517057" available="true">
         <name>Mercedes-Benz GL-класс 3.0 AT, 2013, 208 736 км</name>
         <price>3000000</price>
@@ -812,6 +548,138 @@
         <vendor>ОрионАвто</vendor>
         <vendorCode>7678627037</vendorCode>
         <param name="Короткое описание">213 400 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8126445651" available="true">
+        <name>Nissan X-Trail 2.0 CVT, 2013, 149 400 км</name>
+        <price>1550000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://50.img.avito.st/image/1/1.fZrSP7aA0XO8nwtypFIG9_2f03dgiNVzYO-wd2BE0KlnnNVpvJ8LcmQ.sGUaIIPw25LoiIs_0U2F-WHModVXrEctHu42F7y76Rs</picture>
+        <description>Nissan X-Trail 2.0 CVT, 2013, 149 400 км Город: Тюменская обл., Тюмень. Цена: 1550000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8126445651</vendorCode>
+        <param name="Короткое описание">149 400 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8126388048" available="true">
+        <name>Daewoo Nexia 1.5 MT, 2013, 130 247 км</name>
+        <price>250000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://60.img.avito.st/image/1/1.LLjKLraAgFGkjlpQngZtqeSOglV4mYRReP7hVXhVgYt_jYRLpI5aUHw.EeNL99M6T26agILhEP82aj508h8xfLIt0J3yKsscYyw</picture>
+        <description>Daewoo Nexia 1.5 MT, 2013, 130 247 км Город: Тюменская обл., Тюмень. Цена: 250000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8126388048</vendorCode>
+        <param name="Короткое описание">130 247 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8126195738" available="true">
+        <name>ВАЗ (LADA) Granta Cross 1.6 MT, 2021, 44 885 км</name>
+        <price>750000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://20.img.avito.st/image/1/1.bsDifLaAwimM3BgoslUv0c3cwC1Qy8YpUKyjLVAHw_NX38YzjNwYKFQ.YDqq-HIw_tXUOLSP1zOw0MAXV3gxhKBncFAy2VeXSI8?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>ВАЗ (LADA) Granta Cross 1.6 MT, 2021, 44 885 км Город: Тюменская обл., Тюмень. Цена: 750000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8126195738</vendorCode>
+        <param name="Короткое описание">44 885 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8062742319" available="true">
+        <name>Lexus ES 2.5 AT, 2018, 105 273 км</name>
+        <price>3500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://90.img.avito.st/image/1/1.1Cq8graAeMPSIqLCmPWnCpgiescONXzDDlIZxw75eRkJIXzZ0iKiwgo.YXYgHVcTbMStb0K4iqq4O7YG9cyFrYNNuGkNkkfT10M</picture>
+        <description>Lexus ES 2.5 AT, 2018, 105 273 км Город: Тюменская обл., Тюмень. Цена: 3500000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8062742319</vendorCode>
+        <param name="Короткое описание">105 273 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8158612847" available="true">
+        <name>Skoda Octavia 1.4 AMT, 2019, 174 842 км</name>
+        <price>1940000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://80.img.avito.st/image/1/1.0dLNvraAfTujHqc647Gh0eAefz9_CXk7f24cP3_FfOF4HXkhox6nOns.uGSlvH5DHMHGWNA_NbkroySRm2nVFVVPrqRmO7qAU1s</picture>
+        <description>Skoda Octavia 1.4 AMT, 2019, 174 842 км Город: Тюменская обл., Тюмень. Цена: 1940000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8158612847</vendorCode>
+        <param name="Короткое описание">174 842 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="7966580763" available="true">
+        <name>Toyota Land Cruiser 4.2 MT, 1994, 529 229 км</name>
+        <price>1390000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://60.img.avito.st/image/1/1.ifxbwraAJRU1Yv8URaj_9GpiJxHpdSEV6RJEEem5JM_uYSEPNWL_FO0.9Dxo2CJaqEkqaQgu07CZnQWH8MZmAGp5kIrWFfs6648</picture>
+        <description>Toyota Land Cruiser 4.2 MT, 1994, 529 229 км Город: Тюменская обл., Тюмень. Цена: 1390000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>7966580763</vendorCode>
+        <param name="Короткое описание">529 229 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8126388195" available="true">
+        <name>Nissan Almera 1.4 MT, 1999, 292 877 км</name>
+        <price>350000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://50.img.avito.st/image/1/1.5sESRraASih85pApUgWmzz3mSCyg8U4ooJYrLKA9S_Kn5U4yfOaQKaQ.ZtnPcFI9-5trEUunRYvNuS7BhJK30lAYOdBCKcLug5k</picture>
+        <description>Nissan Almera 1.4 MT, 1999, 292 877 км Город: Тюменская обл., Тюмень. Цена: 350000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8126388195</vendorCode>
+        <param name="Короткое описание">292 877 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="7198643845" available="true">
+        <name>Nissan AD 1.5 AT, 2017, 64 000 км</name>
+        <price>900000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://00.img.avito.st/image/1/1._Bo0TraAUPNa7oryQBn4CQnuUveG-VTzhp4x94Y1USmB7VTpWu6K8oI.fvcl46MKelHWDmXUC6erE73Up5VQjlsUjOiOsK8pEIM?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Nissan AD 1.5 AT, 2017, 64 000 км Город: Тюменская обл., Тюмень. Цена: 900000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>7198643845</vendorCode>
+        <param name="Короткое описание">64 000 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8094767501" available="true">
+        <name>Hyundai Solaris 1.4 AT, 2019, 162 380 км</name>
+        <price>1210000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://30.img.avito.st/image/1/1.kTUd1LaAPdxzdOfdM_aLfz10P9ivYzncrwRc2K-vPAaodznGc3Tn3as.OTFXBRH5xx-d6s0b1eAif2jHS_i8l4SggY81oXpcuw8?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Hyundai Solaris 1.4 AT, 2019, 162 380 км Город: Тюменская обл., Тюмень. Цена: 1210000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8094767501</vendorCode>
+        <param name="Короткое описание">162 380 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8126735216" available="true">
+        <name>Mercedes-Benz GL-класс 5.5 AT, 2009, 429 684 км</name>
+        <price>1440000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://30.img.avito.st/image/1/1.-L-7ZbaAVFbVxY5Xx3LV6pfFVlIJ0lBWCbU1UgkeVYwOxlBM1cWOVw0.mC8X_hHLeNms4yIHvjqQrRAMPbwLYLKZGvMkkO1zF1U?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Mercedes-Benz GL-класс 5.5 AT, 2009, 429 684 км Город: Тюменская обл., Тюмень. Цена: 1440000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8126735216</vendorCode>
+        <param name="Короткое описание">429 684 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8029957834" available="true">
+        <name>Toyota Land Cruiser 4.6 AT, 2020, 151 526 км</name>
+        <price>8500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://20.img.avito.st/image/1/1.YbfxtLaAzV6fFBdfv4Fz8coUz1pDA8leQ2SsWkPPzIREF8lEnxQXX0c.eKxpgDfvQjAT3WVXRoCu-2VUv7YCygTAvUHr8M5HfqY?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Toyota Land Cruiser 4.6 AT, 2020, 151 526 км Город: Тюменская обл., Тюмень. Цена: 8500000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8029957834</vendorCode>
+        <param name="Короткое описание">151 526 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8030264162" available="true">
+        <name>Datsun on-DO 1.6 MT, 2019, 206 844 км</name>
+        <price>449000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://30.img.avito.st/image/1/1.c2qjEraA34PNsgWCyXNRDpiy3YcRpduDEcK-hxFp3lkWsduZzbIFghU.H5JB2BVmo3AMm-qT6Ff--OCe0D_8hqTjwhntvn2YiMw?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Datsun on-DO 1.6 MT, 2019, 206 844 км Город: Тюменская обл., Тюмень. Цена: 449000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8030264162</vendorCode>
+        <param name="Короткое описание">206 844 км; Тюменская обл., Тюмень</param>
       </offer>
       <offer id="7198846320" available="true">
         <name>Mercedes-Benz S-класс 4.7 AT, 2015, 196 553 км</name>
@@ -1208,6 +1076,138 @@
         <vendor>ОрионАвто</vendor>
         <vendorCode>8094811872</vendorCode>
         <param name="Короткое описание">350 497 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8094812980" available="true">
+        <name>Skoda Octavia 1.6 MT, 2008, 275 255 км</name>
+        <price>499000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://60.img.avito.st/image/1/1.W40oCraA92RGqi1lEgsbmguq9WCavfNkmtqWYJpx9r6dqfN-RqotZZ4.-C-VkfjL9mo7E6JEFx8B7kqLhC4x5uBSS-avq5NU8gM</picture>
+        <description>Skoda Octavia 1.6 MT, 2008, 275 255 км Город: Тюменская обл., Тюмень. Цена: 499000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8094812980</vendorCode>
+        <param name="Короткое описание">275 255 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="7934219719" available="true">
+        <name>Opel Antara 2.2 MT, 2013, 161 287 км</name>
+        <price>1050000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://10.img.avito.st/image/1/1.a5aMXLaAx3_i_B1-1lVCjLn8xXs-68N_Poymez4nxqU5_8Nl4vwdfjo.HzOGhu1njRAU23rB3JyuxbOn5bs_ADv8HtpP6jG_xeQ?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Opel Antara 2.2 MT, 2013, 161 287 км Город: Тюменская обл., Тюмень. Цена: 1050000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>7934219719</vendorCode>
+        <param name="Короткое описание">161 287 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="7998124606" available="true">
+        <name>Lexus IS 2.5 AT, 2007, 275 800 км</name>
+        <price>1299900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://20.img.avito.st/image/1/1.C_0IeraApxRm2n0VEg5ahjTapRC6zaMUuqrGELoBps692aMOZtp9Fb4.dAGiTN3qNHcqgSxC-xJVD767tCkUHvSBeK099dHOWVM?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Lexus IS 2.5 AT, 2007, 275 800 км Город: Тюменская обл., Тюмень. Цена: 1299900 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>7998124606</vendorCode>
+        <param name="Короткое описание">275 800 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8094374759" available="true">
+        <name>BMW X6 M 4.4 AT, 2011, 217 753 км</name>
+        <price>2100000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://80.img.avito.st/image/1/1.50StU7aAS63D85Gs72TvGI3zSakf5E-tH4MqqR8oSncY8E-3w_ORrBs.ZYUYIy9kgSMrS3gD0X1ZsgNZOGctHhK1nUmf7Nl_72A</picture>
+        <description>BMW X6 M 4.4 AT, 2011, 217 753 км Город: Тюменская обл., Тюмень. Цена: 2100000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8094374759</vendorCode>
+        <param name="Короткое описание">217 753 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8062049519" available="true">
+        <name>Nissan Murano 3.5 CVT, 2010, 256 256 км</name>
+        <price>999000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://70.img.avito.st/image/1/1.q5Dw8baAB3meUd14qu-dichRBX1CRgN5QiFmfUKKBqNFUgNjnlHdeEY.GbozbMWlu6t3yy6HBBFDBcC-zgSGrixvQavAQ9S36fs</picture>
+        <description>Nissan Murano 3.5 CVT, 2010, 256 256 км Город: Тюменская обл., Тюмень. Цена: 999000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8062049519</vendorCode>
+        <param name="Короткое описание">256 256 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="7934176770" available="true">
+        <name>LIFAN Solano 1.5 CVT, 2015, 98 955 км</name>
+        <price>500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://30.img.avito.st/image/1/1.p6NzW7aAC0od-9FLMQXjxUb7CU7B7A9KwYtqTsEgCpDG-A9QHfvRS8U.5bGh5hTzEH4fxawl7YA143slSWinEbkRwI6a6MjB3Ls?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>LIFAN Solano 1.5 CVT, 2015, 98 955 км Город: Тюменская обл., Тюмень. Цена: 500000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>7934176770</vendorCode>
+        <param name="Короткое описание">98 955 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8062264442" available="true">
+        <name>Mercedes-Benz GLA-класс 1.3 AMT, 2020, 91 804 км</name>
+        <price>2990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://50.img.avito.st/image/1/1._4rYRLaAU2O25Iliqk-dlfzkUWdq81djapQyZ2o_Urlt51d5tuSJYm4.X0M1lPuNo86MnpWxpsKERB3mSGEG5l0fJNqaexkFQEs</picture>
+        <description>Mercedes-Benz GLA-класс 1.3 AMT, 2020, 91 804 км Город: Тюменская обл., Тюмень. Цена: 2990000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8062264442</vendorCode>
+        <param name="Короткое описание">91 804 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="7934401433" available="true">
+        <name>OMODA C5 1.5 CVT, 2025, 4 223 км</name>
+        <price>2350000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://80.img.avito.st/image/1/1.Cke_gLaApq7RIHyvp7x8ao0gpKoNN6KuDVDHqg37p3QKI6K00SB8rwk.48Yneid0lHJJWXO3hJ8JnP6RhGMR3GWI6bCDg0DFe5c</picture>
+        <description>OMODA C5 1.5 CVT, 2025, 4 223 км Город: Тюменская обл., Тюмень. Цена: 2350000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>7934401433</vendorCode>
+        <param name="Короткое описание">4 223 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="7934084592" available="true">
+        <name>Audi Q7 3.0 AT, 2012, 202 893 км</name>
+        <price>2100000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://30.img.avito.st/image/1/1.4nOM7LaATpriTJSbxKuYT7lMTJ4-W0qaPjwvnj6XT0A5T0qA4kyUmzo.dwaweb_a2EIpXj9433ipxL3hCvI8b7M0I0PHh4aXNXY?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Audi Q7 3.0 AT, 2012, 202 893 км Город: Тюменская обл., Тюмень. Цена: 2100000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>7934084592</vendorCode>
+        <param name="Короткое описание">202 893 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8126221535" available="true">
+        <name>Volkswagen Beetle 1.2 AMT, 2014, 129 110 км</name>
+        <price>1720000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://30.img.avito.st/image/1/1.9XFy_baAWZgcXYOZFObMXVNdW5zASl2YwC04nMCGWELHXl2CHF2DmcQ.H1wDLUEC9BfEE3KxiIU7qyrN09usm8N8PADguVxtlug?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Volkswagen Beetle 1.2 AMT, 2014, 129 110 км Город: Тюменская обл., Тюмень. Цена: 1720000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8126221535</vendorCode>
+        <param name="Короткое описание">129 110 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="7934733863" available="true">
+        <name>Toyota Probox 1.5 CVT, 2017, 107 308 км</name>
+        <price>1230000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://40.img.avito.st/image/1/1.i22ObLaAJ4TgzP2FlH6NLrzMJYA82yOEPLxGgDwXJl47zyOe4Mz9hTg.-mqHVW1apoZKJd8PJWJJKlxnpzFe_KKT9Dka-ZjiLoE</picture>
+        <description>Toyota Probox 1.5 CVT, 2017, 107 308 км Город: Тюменская обл., Тюмень. Цена: 1230000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>7934733863</vendorCode>
+        <param name="Короткое описание">107 308 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8062707470" available="true">
+        <name>Kia Soul 2.0 AT, 2019, 107 448 км</name>
+        <price>2050000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://70.img.avito.st/image/1/1.UYf7_7aA_W6VXydv1cpwiMJf_2pJSPluSS-cakmE_LROXPl0lV8nb00.QzSIjIhOnBEYdCkk_n4pa0qPAxvxL41HgOg0cbeHREs</picture>
+        <description>Kia Soul 2.0 AT, 2019, 107 448 км Город: Тюменская обл., Тюмень. Цена: 2050000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8062707470</vendorCode>
+        <param name="Короткое описание">107 448 км; Тюменская обл., Тюмень</param>
       </offer>
       <offer id="7774373747" available="true">
         <name>Volkswagen Teramont 2.0 AT, 2018, 180 148 км</name>

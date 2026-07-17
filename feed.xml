@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-17 16:11">
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-07-17 20:29">
   <shop>
     <name>ОрионАвто</name>
     <company>ОрионАвто Автосалон Тюмень</company>
@@ -1230,6 +1230,17 @@
         <vendor>ОрионАвто</vendor>
         <vendorCode>7838661253</vendorCode>
         <param name="Короткое описание">99 100 км; Тюменская обл., Тюмень</param>
+      </offer>
+      <offer id="8094612828" available="true">
+        <name>Toyota Camry 2.4 MT, 2006, 322 002 км</name>
+        <price>799000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://10.img.avito.st/image/1/1.Cr8PjbaAplZhLXxXF816oiwtpFK9OqJWvV3HUr32p4y6LqJMYS18V7k.sLPqDSPQxEXooS0kKJss1jgjl_T_5h7vLZtYTsUtOz0?cqp=2.31EmCLg6ik3oatt1ttbFq_ajuGsz9wCshVqsaNgtLVVqtiwIcdxsWidTBGP4W2gjZpwuVqcdzwQCR5DnUbaoBbU1</picture>
+        <description>Toyota Camry 2.4 MT, 2006, 322 002 км Город: Тюменская обл., Тюмень. Цена: 799000 руб.</description>
+        <vendor>ОрионАвто</vendor>
+        <vendorCode>8094612828</vendorCode>
+        <param name="Короткое описание">322 002 км; Тюменская обл., Тюмень</param>
       </offer>
     </offers>
   </shop>

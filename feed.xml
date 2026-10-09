@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-07 14:18">
+<yml_catalog date="2026-10-09 15:07">
   <shop>
     <name>ОрионАвто</name>
     <company>ОрионАвто Автосалон Тюмень</company>
@@ -26,7 +26,7 @@
         <price>3015000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-001.png</picture>
         <description>Audi Q3 Категория: Внедорожник. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 3015000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>А-001</vendorCode>
@@ -38,7 +38,7 @@
         <price>1300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-002.png</picture>
         <description>Honda Envix (Crider) Категория: СЕДАН. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1300000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>А-002</vendorCode>
@@ -50,7 +50,7 @@
         <price>1236000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-003.png</picture>
         <description>Honda Crider Категория: Седан. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1236000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>А-003</vendorCode>
@@ -62,7 +62,7 @@
         <price>3900000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-004.png</picture>
         <description>TOYOTA RAV4 Категория: ПАРКЕТНИК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 3900000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>А-004</vendorCode>
@@ -74,7 +74,7 @@
         <price>1600000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-005.png</picture>
         <description>YOYOTA COROLLA LEVIN Категория: СЕДАН. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1600000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-005</vendorCode>
@@ -86,7 +86,7 @@
         <price>1600000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-006.png</picture>
         <description>TOYOTA COROLLA Категория: СЕДАН. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1600000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>А-006</vendorCode>
@@ -98,7 +98,7 @@
         <price>2650000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-007.png</picture>
         <description>TOYOTA Bz3X Категория: ПАРКЕТНИК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 2650000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>А-007</vendorCode>
@@ -110,7 +110,7 @@
         <price>2600000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-008.png</picture>
         <description>MAZDA CX-5 Категория: ПАРКЕТНИК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 2600000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>А-008</vendorCode>
@@ -122,7 +122,7 @@
         <price>2200000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-009.png</picture>
         <description>CHANGAN UNI-Z Категория: Автомобили с пробегом. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 2200000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>А-009</vendorCode>
@@ -134,7 +134,7 @@
         <price>2300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-010.png</picture>
         <description>CHANGAN Q-05 Категория: ПАРКЕТНИК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 2300000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>А-010</vendorCode>
@@ -146,7 +146,7 @@
         <price>2800000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-011.png</picture>
         <description>CHANGAN A-06 Категория: СПОРТБЕК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 2800000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-011</vendorCode>
@@ -158,7 +158,7 @@
         <price>4300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-012.png</picture>
         <description>GAC GS8 Категория: ДЖИП. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 4300000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-012</vendorCode>
@@ -170,7 +170,7 @@
         <price>2050000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-013.png</picture>
         <description>VW THARU XR Категория: ПАРКЕТНИК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 2050000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-013</vendorCode>
@@ -182,7 +182,7 @@
         <price>5300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-014.png</picture>
         <description>VW TERAMONT Категория: ДЖИП. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 5300000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-014</vendorCode>
@@ -194,7 +194,7 @@
         <price>4300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-015.png</picture>
         <description>VW TIGUAN Категория: ПАРКЕТНИК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 4300000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-015</vendorCode>
@@ -206,7 +206,7 @@
         <price>1350000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-016.png</picture>
         <description>TOYOTA AURIS Категория: ХЕЧБЕК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1350000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-016</vendorCode>
@@ -218,7 +218,7 @@
         <price>1750000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-017.png</picture>
         <description>Geely Coolray Категория: ПАРКЕТНИК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 1750000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-017</vendorCode>
@@ -230,7 +230,7 @@
         <price>2250000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-018.png</picture>
         <description>Mazda Cx-30 Категория: ПАРКЕТНИК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 2250000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-018</vendorCode>
@@ -242,7 +242,7 @@
         <price>3200000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-019.png</picture>
         <description>Audi Q3 Sportback Категория: Паркетиник. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 3200000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-019</vendorCode>
@@ -254,7 +254,7 @@
         <price>4200000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-020.png</picture>
         <description>Vw Tiguan pro Категория: Паркетник. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 4200000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-020</vendorCode>
@@ -266,7 +266,7 @@
         <price>1650000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-021.png</picture>
         <description>Kia kx1 Категория: ПАРКЕТНИК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1650000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-021</vendorCode>
@@ -278,7 +278,7 @@
         <price>2000000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-022.png</picture>
         <description>Skoda Kamiq Категория: ПАРКЕТНИК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 2000000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-022</vendorCode>
@@ -290,7 +290,7 @@
         <price>1250000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-023.png</picture>
         <description>Bmw X 1 Категория: ПАРКЕТНИК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1250000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-023</vendorCode>
@@ -302,7 +302,7 @@
         <price>2150000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-024.png</picture>
         <description>Audi A3 Категория: СЕДАН. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 2150000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-024</vendorCode>
@@ -314,7 +314,7 @@
         <price>1950000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-025.png</picture>
         <description>Hyundai ix35 Категория: ПАРКЕТНИК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1950000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-025</vendorCode>
@@ -326,7 +326,7 @@
         <price>2850000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-026.png</picture>
         <description>Mitsubishi ASX Категория: ПАРКЕТНИК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 2850000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-026</vendorCode>
@@ -338,7 +338,7 @@
         <price>2200000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-027.png</picture>
         <description>Mercedes-Benz C-class Категория: СЕДАН. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 2200000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-027</vendorCode>
@@ -350,7 +350,7 @@
         <price>2200000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-028.png</picture>
         <description>Honda XR-V 2023 CVT Категория: ПАРКЕТНИК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 2200000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-028</vendorCode>
@@ -362,7 +362,7 @@
         <price>1500000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-029.png</picture>
         <description>Geely Emgrand S Категория: Автомобили с пробегом. Город: Тюменская обл., Тюмень. Цена: 1500000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-029</vendorCode>
@@ -374,7 +374,7 @@
         <price>3500000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-030.png</picture>
         <description>Subaru Forester Категория: ПАРКЕТНИК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 3500000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-030</vendorCode>
@@ -386,7 +386,7 @@
         <price>2150000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-031.png</picture>
         <description>Volkswagen Golf 8 R-Line Категория: ХАЧБЕК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 2150000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-031</vendorCode>
@@ -398,7 +398,7 @@
         <price>1300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-032.png</picture>
         <description>Changan Eado Plus premium Категория: СЕДАН. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1300000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-032</vendorCode>
@@ -410,7 +410,7 @@
         <price>2300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-033.png</picture>
         <description>Nissan Qashqai Категория: ПАРКЕТНИК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 2300000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-033</vendorCode>
@@ -422,7 +422,7 @@
         <price>14800000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-034.png</picture>
         <description>Lexus GX550 2025 Категория: ВНЕДОРОЖНИК. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 14800000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-034</vendorCode>
@@ -434,7 +434,7 @@
         <price>2300000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-035.png</picture>
         <description>Skoda Octavia Категория: СЕДАН. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 2300000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-035</vendorCode>
@@ -446,7 +446,7 @@
         <price>1550000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-036.png</picture>
         <description>Toyota Yaris Категория: ХАЧБЭК. Состояние: Б/У. Город: Тюменская обл., Тюмень. Цена: 1550000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-036</vendorCode>
@@ -458,7 +458,7 @@
         <price>4100000</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-037.png</picture>
         <description>Toyota Camry Категория: СЕДАН. Состояние: НОВЫЙ. Город: Тюменская обл., Тюмень. Цена: 4100000 руб.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>A-037</vendorCode>

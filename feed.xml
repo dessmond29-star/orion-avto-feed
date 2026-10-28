@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-28 16:39">
+<yml_catalog date="2026-10-28 18:45">
   <shop>
     <name>ОрионАвто</name>
     <company>ОрионАвто Автосалон Тюмень</company>
@@ -59,7 +59,7 @@
         <price />
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-018.png</picture>
         <description>Mazda CX-5 2.5 AT, 2016, 175 242 км Город: Тюменская обл., Тюмень.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>8190031707</vendorCode>
@@ -103,7 +103,7 @@
         <price />
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-020.png</picture>
         <description>Volkswagen Tiguan 2.0 AT, 2012, 168 311 км Город: Тюменская обл., Тюмень.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>8254864824</vendorCode>
@@ -180,7 +180,7 @@
         <price />
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-027.png</picture>
         <description>Mercedes-Benz S-класс 4.7 AT, 2015, 196 553 км Город: Тюменская обл., Тюмень.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>7198846320</vendorCode>
@@ -279,7 +279,7 @@
         <price />
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-035.png</picture>
         <description>Skoda Octavia 1.8 AMT, 2013, 187 738 км Город: Тюменская обл., Тюмень.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>8453639527</vendorCode>
@@ -609,7 +609,7 @@
         <price />
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-006.png</picture>
         <description>Toyota Corolla 1.8 CVT, 2013, 205 290 км Город: Тюменская обл., Тюмень.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>8318171185</vendorCode>
@@ -664,7 +664,7 @@
         <price />
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-030.png</picture>
         <description>Subaru Forester 2.0 CVT, 2013, 311 667 км Город: Тюменская обл., Тюмень.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>8094131173</vendorCode>
@@ -763,7 +763,7 @@
         <price />
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-004.png</picture>
         <description>Toyota RAV4 2.4 AT, 2012, 188 518 км Город: Тюменская обл., Тюмень.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>8368620098</vendorCode>
@@ -807,7 +807,7 @@
         <price />
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
-        <picture />
+        <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/pinned/A-037.png</picture>
         <description>Toyota Camry 2.4 AT, 2008, 442 449 км Город: Тюменская обл., Тюмень.</description>
         <vendor>ОрионАвто</vendor>
         <vendorCode>8283032846</vendorCode>

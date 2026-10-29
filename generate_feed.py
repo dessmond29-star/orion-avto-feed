@@ -23,7 +23,7 @@ def check_feed(path: Path = FEED_PATH) -> None:
     if root.tag != "yml_catalog":
         raise ValueError("Root element must be yml_catalog")
 
-    offers = root.findall("./shop/offers/offer")
+    offers = root.findall("./offers/offer")
     if not offers:
         raise ValueError("Feed contains no offers")
 

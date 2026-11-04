@@ -1,526 +1,526 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-04 16:20">
-<shop>
-<name>ОРИОН-АВТО</name>
-<company>ОРИОН-АВТО</company>
-<url>https://www.avito.ru/brands/orion-avto</url>
-</shop>
-<offers>
-  <offer id="8286062225">
-    <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.6_at_2020_67_352_km_8286062225?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>1290000</price>
-    <name>Hyundai Solaris 1.6 AT, 2020, 67 352 км</name>
-    <picture>https://c70.img.avito.st/image/1/1.dqu-tLaA2kL0EyRE3r1Rj7wU2EYMA95CDGS7Rgzr3LwMF95Y9BMkRAg.hl4IDvB5WjIl0HibK3xmBZvJr0ypYwv-WcrwL7U96GA</picture>
-  </offer>
-  <offer id="8360807357">
-    <url>https://www.avito.ru/tyumen/avtomobili/kia_rio_1.6_at_2015_206_770_km_8360807357?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>1050000</price>
-    <name>Kia Rio 1.6 AT, 2015, 206 770 км</name>
-    <picture>https://60.img.avito.st/image/1/1.vL7w97aAEFe6UO5RhPXzg_BXElNCQBRXQidxU0KoFqlCVBRNulDuUUY.WNZ8mstfsh27-OdXpFN2JlaIcz73O9JQdLTwSINI8yo</picture>
-  </offer>
-  <offer id="8094767501">
-    <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.4_at_2019_162_380_km_8094767501?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>1070000</price>
-    <name>Hyundai Solaris 1.4 AT, 2019, 162 380 км</name>
-    <picture>https://c60.img.avito.st/image/1/1.aOsh87aAxAJrVDoEfdIdzyNTxgaTRMACkyOlBpOswvyTUMAYa1Q6BJc.xMQ2cIS5_M3sm2zCSIRIlPKUv5hg7h1KlDDU44d1JFc</picture>
-  </offer>
-  <offer id="7198643845">
-    <url>https://www.avito.ru/tyumen/avtomobili/nissan_ad_1.5_cvt_2017_64_000_km_7198643845?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>880000</price>
-    <name>Nissan AD 1.5 CVT, 2017, 64 000 км</name>
-    <picture>https://20.img.avito.st/image/1/1.9DK2hLaAWNv8I6bd0ovcFrQkWt8EM1zbBFQ53wTbXiUEJ1zB_COm3QA.RWdB2OQIx9KewgtnfE1tRqlpMB45KKYImEl64yeZGwA?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8365927982">
-    <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_e-klass_2.0_at_2018_214_057_km_8365927982?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>2570000</price>
-    <name>Mercedes-Benz E-класс 2.0 AT, 2018, 214 057 км</name>
-    <picture>https://90.img.avito.st/image/1/1.2s-dlbaAdibXMoggpcqmwJ81dCIvInImL0UXIi_KcNgvNnI81zKIICs.G2VpeZMoP7J5SyJL9M20MWxM_Q0-TzO-_21gAqjLIug</picture>
-  </offer>
-  <offer id="7326662300">
-    <url>https://www.avito.ru/tyumen/avtomobili/porsche_macan_gts_3.0_amt_2017_119_500_km_7326662300?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>3300000</price>
-    <name>Porsche Macan GTS 3.0 AMT, 2017, 119 500 км</name>
-    <picture>https://c80.img.avito.st/image/1/1.XeuvObaA8QLlng8EmSAjz62Z8wYdjvUCHemQBh1m9_wdmvUY5Z4PBBk.RRX2M7Um_gX0evhpZJOadHq0EddteM7ZvEkyHZ960c0</picture>
-  </offer>
-  <offer id="7966754826">
-    <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_passat_cc_1.8_amt_2010_324_126_km_7966754826?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>650000</price>
-    <name>Volkswagen Passat CC 1.8 AMT, 2010, 324 126 км</name>
-    <picture>https://c80.img.avito.st/image/1/1.RFa2rLaA6L_8Cxa5ssU8crQM6rsEG-y_BHyJuwTz7kEED-yl_AsWuQA.v4jGoR7O0Ex3I4_-Tr8E4H0SPqAs4bXc1Y9bL2GDOMI</picture>
-  </offer>
-  <offer id="7454144113">
-    <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_granta_1.6_mt_2018_105_340_km_7454144113?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>440000</price>
-    <name>ВАЗ (LADA) Granta 1.6 MT, 2018, 105 340 км</name>
-    <picture>https://50.img.avito.st/image/1/1.AJC187aArHn_VFJ_uZMHqrdTrn0HRKh5ByPNfQesqocHUKhj_1RSfwM.Lm9FlxXfc5tZ6qdjmgD0gU0EVc9juT7I6E9XxCh8uBc</picture>
-  </offer>
-  <offer id="8317888312">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_corolla_1.8_cvt_2018_175_837_km_8317888312?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>1659000</price>
-    <name>Toyota Corolla 1.8 CVT, 2018, 175 837 км</name>
-    <picture>https://10.img.avito.st/image/1/1.xMnXo7aAaCCdBJYm05Tn7dUDaiRlFGwgZXMJJGX8bt5lAGw6nQSWJmE.lmKt-xE5W_LFUoUQzKgFAXFTW4yUTC79OuD6olhKjXI?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8434942657">
-    <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.6_mt_2017_136_032_km_8434942657?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>750000</price>
-    <name>Hyundai Solaris 1.6 MT, 2017, 136 032 км</name>
-    <picture>https://70.img.avito.st/image/1/1.gLvNoraALFKHBdJUweCHgc8CLlZ_FShSf3JNVn_9Kqx_AShIhwXSVHs.of2K36Pu8J7IPFougzFqbeD7_-IlVz5LynA26sWenaU</picture>
-  </offer>
-  <offer id="8390982300">
-    <url>https://www.avito.ru/tyumen/avtomobili/hyundai_ix35_2.0_mt_2014_157_628_km_8390982300?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>1290000</price>
-    <name>Hyundai ix35 2.0 MT, 2014, 157 628 км</name>
-    <picture>https://30.img.avito.st/image/1/1.jwgWILaAI-Fch93nBDbmMxSAIeWklyfhpPBC5aR_JR-kgyf7XIfd56A.TDR-BX2cvUSLEFZuNYrpVrrov8qU9lGJzf54GSv4IoU?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8395389047">
-    <url>https://www.avito.ru/tyumen/avtomobili/infiniti_qx56_5.6_at_2012_167_516_km_8395389047?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
-    <price>2050000</price>
-    <name>Infiniti QX56 5.6 AT, 2012, 167 516 км</name>
-    <picture>https://70.img.avito.st/image/1/1.q9Rui7aABz0kLPk7NNm672wrBTncPAM93FtmOdzUAcPcKAMnJCz5O9g.NHRlQgNyr8bGZnuSzXOb_Wjm5wk4dp3a0EvUOrWT4vw</picture>
-  </offer>
-  <offer id="8423302791">
-    <url>https://www.avito.ru/tyumen/avtomobili/lexus_nx_2.0_cvt_2015_68_395_km_8423302791?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>2700000</price>
-    <name>Lexus NX 2.0 CVT, 2015, 68 395 км</name>
-    <picture>https://40.img.avito.st/image/1/1.gcT_eraALS213dMr8WT7if7aLylNzSktTapMKU0lK9NN2Sk3td3TK0k.E6ZazI8qE9P6C3CZzYyBSpB25JPcwvo1YHBiik4Ab8M</picture>
-  </offer>
-  <offer id="8440819434">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.0_mt_2014_377_305_km_8440819434?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>1790000</price>
-    <name>Toyota RAV4 2.0 MT, 2014, 377 305 км</name>
-    <picture>https://40.img.avito.st/image/1/1.DJ8tYbaAoHZnxl5wOUFv1CPBonKf1qR2n7HBcp8-poifwqRsZ8ZecJs.iLg-05aVb60bqVccrBm3wGhSdi-BQO5ArAEx8ccIpJk</picture>
-  </offer>
-  <offer id="8286765776">
-    <url>https://www.avito.ru/tyumen/avtomobili/xcite_x-cross_7_1.5_cvt_2024_23_897_km_8286765776?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>1940000</price>
-    <name>Xcite X-Cross 7 1.5 CVT, 2024, 23 897 км</name>
-    <picture>https://00.img.avito.st/image/1/1.G2uenraAt4LUOUmEpM4cUZw-tYYsKbOCLE7WhizBsXwsPbOY1DlJhCg.XcaPR_V78wWx6MxFVrKFelQKWbBEE62gjjt3e68LVpk?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8029957834">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_land_cruiser_4.6_at_2020_151_526_km_8029957834?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>7950000</price>
-    <name>Toyota Land Cruiser 4.6 AT, 2020, 151 526 км</name>
-    <picture>https://c70.img.avito.st/image/1/1.Vuhv47aA-gElRAQHT9IvzG1D-AXdVP4B3TObBd28_P_dQP4bJUQEB9k.3so18u3-SwgkRzvj3zAzO9Aa0PSQOAIKbg6-LI4184A</picture>
-  </offer>
-  <offer id="8254864824">
-    <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_tiguan_2.0_at_2012_168_311_km_8254864824?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>1270000</price>
-    <name>Volkswagen Tiguan 2.0 AT, 2012, 168 311 км</name>
-    <picture>https://20.img.avito.st/image/1/1.omXyo7aADoy4BPCKuuWCQfADDIhAFAqMQHNviED8CHJAAAqWuATwikQ.lZGo_1LjOgxqNyrv2MhibwFYWw-XdwM7-vGl93sq-_s?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="7678203884">
-    <url>https://www.avito.ru/tyumen/avtomobili/lexus_es_2.5_at_2019_119_617_km_7678203884?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>3645000</price>
-    <name>Lexus ES 2.5 AT, 2019, 119 617 км</name>
-    <picture>https://90.img.avito.st/image/1/1.z2hUi7aAY4EeLJ2HRoygU1YrYYXmPGeB5lsChebUZX_mKGebHiydh-I.XKDL8eUwb7W3Ey5NzhT54PIr_-CX2a_ZHyG0_hpzYzY</picture>
-  </offer>
-  <offer id="8264235969">
-    <url>https://www.avito.ru/tyumen/avtomobili/kia_sportage_2.0_at_2012_183_853_km_8264235969?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>1250000</price>
-    <name>Kia Sportage 2.0 AT, 2012, 183 853 км</name>
-    <picture>https://c90.img.avito.st/image/1/1.H_riI7aAsxOohE0V0F893uCDsRdQlLcTUPPSF1B8te1QgLcJqIRNFVQ.j5zcQ9pxXk2QL2JYLQ_yplloZqoVPYP9Hd65pK-EFbw</picture>
-  </offer>
-  <offer id="8190088605">
-    <url>https://www.avito.ru/tyumen/avtomobili/lexus_nx_2.0_cvt_2016_95_888_km_8190088605?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>2470000</price>
-    <name>Lexus NX 2.0 CVT, 2016, 95 888 км</name>
-    <picture>https://30.img.avito.st/image/1/1.q-q_C7aABwP1rPkF5WmOzr2rBQcNvAMDDdtmBw1UAf0NqAMZ9az5BQk.YTGk8f1e0pCecJKKlYSiOY98h1oIHlpCJvNLoBYL8aM?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="7998099514">
-    <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_multivan_3.2_at_2008_397_673_km_7998099514?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>1490000</price>
-    <name>Volkswagen Multivan 3.2 AT, 2008, 397 673 км</name>
-    <picture>https://20.img.avito.st/image/1/1.I0O28LaAj6r8V3Gs_NBQZ7RQja4ER4uqBCDurgSviVQEU4uw_FdxrAA.W1GNVV-3LnmKoXHiJyz35M6NCQic7Fw2Ji-kH40keOI?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8190334420">
-    <url>https://www.avito.ru/tyumen/avtomobili/nissan_murano_3.5_cvt_2013_110_246_km_8190334420?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>1500000</price>
-    <name>Nissan Murano 3.5 CVT, 2013, 110 246 км</name>
-    <picture>https://40.img.avito.st/image/1/1.kNfm2LaAPD6sf8I4ysqQ7eR4PjpUbzg-VAhdOlSHOsBUezgkrH_COFA.BRf6MRWjM94EPB8HxFBNpFgUkqVXn_Rr3Ybj8qPMkno</picture>
-  </offer>
-  <offer id="8577209074">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_camry_2.0_at_2019_63_082_km_8577209074?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>2550000</price>
-    <name>Toyota Camry 2.0 AT, 2019, 63 082 км</name>
-    <picture>https://20.img.avito.st/image/1/1.n1ZuV7aAM78k8M25XGmbHG_3Mbvc4De_3IdSu9wINUHc9DelJPDNudg.Cxz0-incCkbYDi0yXzelst3iwVKWmzmXKIk7IkrktYI?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="7966580763">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_land_cruiser_4.2_mt_1994_529_229_km_7966580763?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
-    <price>1200000</price>
-    <name>Toyota Land Cruiser 4.2 MT, 1994, 529 229 км</name>
-    <picture>https://30.img.avito.st/image/1/1.zqpGvLaAYkMMG5xFVpepkUQcYEf0C2ZD9GwDR_TjZL30H2ZZDBucRfA.UFgmQeb2WahXG8EETtnRk3B5TsfYV4A1iLf-toT1kLo?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8427818700">
-    <url>https://www.avito.ru/tyumen/avtomobili/bmw_x6_3.0_at_2008_340_591_km_8427818700?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>1370000</price>
-    <name>BMW X6 3.0 AT, 2008, 340 591 км</name>
-    <picture>https://c80.img.avito.st/image/1/1.a1i4aLaAx7Hyzzm34mVPJbnIxbUK38OxCrimtQo3wU8Ky8Or8s85tw4.ZNSBVhHE-f2CZGSgCmvbekmy-NpOH6UM9bZHzwg8zsE</picture>
-  </offer>
-  <offer id="8126700952">
-    <url>https://www.avito.ru/tyumen/avtomobili/volvo_xc90_2.5_at_2007_275_746_km_8126700952?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>850000</price>
-    <name>Volvo XC90 2.5 AT, 2007, 275 746 км</name>
-    <picture>https://c90.img.avito.st/image/1/1.xahso7aAaUEmBJdHapjhjG4Da0XeFG1B3nMIRd78b7_eAG1bJgSXR9o.jP4t5jQY2PPzkhmpQzENeNg-6mIYJ5eZDIso-fOUacE</picture>
-  </offer>
-  <offer id="7838780499">
-    <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_4x4_niva_1.7_mt_2008_133_830_km_7838780499?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>385000</price>
-    <name>ВАЗ (LADA) 4x4 (Нива) 1.7 MT, 2008, 133 830 км</name>
-    <picture>https://80.img.avito.st/image/1/1.yOnFc7aAZACP1JoG2RjhzcfTZgR3xGAAd6MFBHcsYv530GAaj9SaBnM.DF-e-OqpYvMu5XYFPwciNeSeTtBaEmVjv-WRN3BkrUA</picture>
-  </offer>
-  <offer id="8390122387">
-    <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_2108_1.5_mt_1997_111_840_km_8390122387?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>250000</price>
-    <name>ВАЗ (LADA) 2108 1.5 MT, 1997, 111 840 км</name>
-    <picture>https://00.img.avito.st/image/1/1.GtkUaLaAtjBez0g2LBRktlvJtDSm37IwprjXNKY3sM6my7IqXs9INqI.5YOY0hfEG-FpOEbfIH3zOikvFTTCBZ3cmDoSlqrW8C4?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="7902328549">
-    <url>https://www.avito.ru/tyumen/avtomobili/renault_kaptur_1.6_cvt_2018_138_054_km_7902328549?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>1150000</price>
-    <name>Renault Kaptur 1.6 CVT, 2018, 138 054 км</name>
-    <picture>https://10.img.avito.st/image/1/1.w7IemLaAb1tUP5FdFPvyixw4bV-sL2tbrEgOX6zHaaWsO2tBVD-RXag.2wGuI5wQnVSVO2O38ckh1tWEIGtT8JJhEEbkWqRVmps?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8441914356">
-    <url>https://www.avito.ru/tyumen/avtomobili/suzuki_grand_vitara_2.4_at_2011_229_402_km_8441914356?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>950000</price>
-    <name>Suzuki Grand Vitara 2.4 AT, 2011, 229 402 км</name>
-    <picture>https://90.img.avito.st/image/1/1.KKS_B7aAhE31oHpL4yNG6bGnhkkNsIBNDdflSQ1YgrMNpIBX9aB6Swk.z7XuKNjBbXS4M3zROvdXJecii17MVTLI81e_B6UwHtI</picture>
-  </offer>
-  <offer id="8286106272">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_hilux_2.8_at_2016_284_632_km_8286106272?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>2640000</price>
-    <name>Toyota Hilux 2.8 AT, 2016, 284 632 км</name>
-    <picture>https://30.img.avito.st/image/1/1.H-w2I7aAswV8hE0DBHdmyDSDsQGElLcFhPPSAYR8tfuEgLcffIRNA4A.EFo8pE4ypSdYT8Pxp0bG53tpfFoDCjPT6hlM_b5gJQA?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="7998292729">
-    <url>https://www.avito.ru/tyumen/avtomobili/infiniti_fx37_3.7_at_2011_234_808_km_7998292729?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>1700000</price>
-    <name>Infiniti FX37 3.7 AT, 2011, 234 808 км</name>
-    <picture>https://20.img.avito.st/image/1/1.UgsNG7aA_uJHvADkJWJFFzC7_Oa_rPriv8uf5r9E-By_uPr4R7wA5Ls.2j_61BJ1E4M8-WpfXDbuSnn1OlVBtqnmeV1JYDVvels?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8158317454">
-    <url>https://www.avito.ru/tyumen/avtomobili/skoda_rapid_1.6_mt_2016_218_333_km_8158317454?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>650000</price>
-    <name>Skoda Rapid 1.6 MT, 2016, 218 333 км</name>
-    <picture>https://00.img.avito.st/image/1/1.bOxMxraAwAUGYT4DGPd_105mwgH-ccQF_hahAf6Zxvv-ZcQfBmE-A_o.tDNjoV48iIkbTYUUHMZ8EQ8UHi9GjXWMbsZYsukqdfo?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="7742836756">
-    <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_touareg_3.0_at_2020_63_864_km_7742836756?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>6500000</price>
-    <name>Volkswagen Touareg 3.0 AT, 2020, 63 864 км</name>
-    <picture>https://00.img.avito.st/image/1/1.w_C-oraAbxn0BZEftJXi1LwCbR0MFWsZDHIOHQz9aecMAWsD9AWRHwg.OFWLcuNyNzyIi_uRwFwnyt80s5J1mx6xMCh9po0lVRU?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="7934176770">
-    <url>https://www.avito.ru/tyumen/avtomobili/lifan_solano_1.5_cvt_2015_98_955_km_7934176770?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>470000</price>
-    <name>LIFAN Solano 1.5 CVT, 2015, 98 955 км</name>
-    <picture>https://c70.img.avito.st/image/1/1.Vhru4raA-vOkRQT1ztc7IexC-PdcVf7zXDKb91y9_A1cQf7ppEUE9Vg.-BW0tbrQq9z8tE47gpN8vAzDwnaEQmbT3PzpiyjMJtA</picture>
-  </offer>
-  <offer id="8286826149">
-    <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_glk-klass_3.5_at_2014_217_069_km_8286826149?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
-    <price>1500000</price>
-    <name>Mercedes-Benz GLK-класс 3.5 AT, 2014, 217 069 км</name>
-    <picture>https://c80.img.avito.st/image/1/1.vdG5w7aAETjzZO8-z4m667tjEzwLdBU4CxNwPAucF8YLYBUi82TvPg8.ArKsnItHxPRfyvIOXNGrE0rLinjCdeQ11-mJvPTMqV8</picture>
-  </offer>
-  <offer id="8431663875">
-    <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_2106_1.3_mt_1987_90_533_km_8431663875?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>250000</price>
-    <name>ВАЗ (LADA) 2106 1.3 MT, 1987, 90 533 км</name>
-    <picture>https://70.img.avito.st/image/1/1.MjLys7aAntu4FGDdmrc5BvATnN9ABJrbQGP_30DsmCVAEJrBuBRg3UQ.clvp3ecdCGmufUUpR8IC9fW9fP7dI5Ekbn6WuxkBkCY</picture>
-  </offer>
-  <offer id="7934682725">
-    <url>https://www.avito.ru/tyumen/avtomobili/ldv_maxus_2.5_mt_2009_68_259_km_7934682725?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>1250000</price>
-    <name>LDV Maxus 2.5 MT, 2009, 68 259 км</name>
-    <picture>https://70.img.avito.st/image/1/1.EUtA47aAvaIKREOkbrMScUJDv6byVLmi8jPcpvK8u1zyQLm4CkRDpPY.ZQ5SgblgvPCmRs7SIT0etPnjiTjpWu5iCTwuOM2t4Ww</picture>
-  </offer>
-  <offer id="8378370333">
-    <url>https://www.avito.ru/tyumen/avtomobili/skoda_superb_1.8_amt_2011_260_085_km_8378370333?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>890000</price>
-    <name>Skoda Superb 1.8 AMT, 2011, 260 085 км</name>
-    <picture>https://10.img.avito.st/image/1/1.UjXSvbaA_tyYGgDa-vBaD9Ad_NhgCvrcYG2f2GDi-CJgHvrGmBoA2mQ.PaEM4nO00GkepMnLf-5pY1aK63qhlrEWFzA2cmvZTeM?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8190315439">
-    <url>https://www.avito.ru/tyumen/avtomobili/genesis_g70_2.0_at_2018_176_706_km_8190315439?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>2050000</price>
-    <name>Genesis G70 2.0 AT, 2018, 176 706 км</name>
-    <picture>https://c60.img.avito.st/image/1/1.8cuzKraAXSL5jaMk3TXO77GKXyYBnVkiAfo8JgF1W9wBiVk4-Y2jJAU.pUT5YNIfvKbWVaKrGA2zGIlkleFZoIUcLiFOKFOHMsQ</picture>
-  </offer>
-  <offer id="8222721039">
-    <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_multivan_2.8_at_2002_341_344_km_8222721039?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>1100000</price>
-    <name>Volkswagen Multivan 2.8 AT, 2002, 341 344 км</name>
-    <picture>https://60.img.avito.st/image/1/1.d2uldbaA24Lv0iWExwxfT6fV2YYXwt-CF6W6hhcq3XwX1t-Y79IlhBM.WXewZGgKpKOTpU5dvRvMwqeSZn7EHM41AGyYHLnIgjM</picture>
-  </offer>
-  <offer id="8327935782">
-    <url>https://www.avito.ru/tyumen/avtomobili/hyundai_creta_1.6_at_2019_117_792_km_8327935782?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>1840000</price>
-    <name>Hyundai Creta 1.6 AT, 2019, 117 792 км</name>
-    <picture>https://50.img.avito.st/image/1/1.gZ7bcbaALXeR1tNx1Te7l8zRL3Npxil3aaFMc2kuK4lp0iltkdbTcW0.k7opPpa1CLkX94HroHDt7IsQRK7eSI1PV-x_CUySJ6c</picture>
-  </offer>
-  <offer id="8286239617">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_avensis_1.8_mt_2004_318_766_km_8286239617?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>620000</price>
-    <name>Toyota Avensis 1.8 MT, 2004, 318 766 км</name>
-    <picture>https://80.img.avito.st/image/1/1.OJDIM7aAlHmClGp_tA8wqsqTln16hJB5euP1fXpskod6kJBjgpRqf34.QRuOKVMAOU29d7VeOjmgtTuvTX6tZejXYRZ7_DymIEI</picture>
-  </offer>
-  <offer id="8318171185">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_corolla_1.8_cvt_2013_205_290_km_8318171185?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>1200000</price>
-    <name>Toyota Corolla 1.8 CVT, 2013, 205 290 км</name>
-    <picture>https://60.img.avito.st/image/1/1.KYuWTraAhWLc6XtkyBoYspTuh2Yk-YFiJJ7kZiQRg5wk7YF43Ol7ZCA.yQQkdzqBwWNAlJEeNctcs_UYPJdhWa_h4aO97WUaR34</picture>
-  </offer>
-  <offer id="8286089515">
-    <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_g-klass_5.5_at_2008_179_098_km_8286089515?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>3200000</price>
-    <name>Mercedes-Benz G-класс 5.5 AT, 2008, 179 098 км</name>
-    <picture>https://30.img.avito.st/image/1/1.me47g7aANQdxJMsBBb2myjkjNwOJNDEHiVNUA4ncM_mJIDEdcSTLAY0.MiWCtPdVGe8s6mQfrMzHNqzaY748LjN2sovN2Lxzfnk?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8332191594">
-    <url>https://www.avito.ru/tyumen/avtomobili/opel_antara_2.4_at_2013_270_862_km_8332191594?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>940000</price>
-    <name>Opel Antara 2.4 AT, 2013, 270 862 км</name>
-    <picture>https://40.img.avito.st/image/1/1.6DvNj7aARNKHKLrUkZTqAc8vRtZ_OEDSf18l1n_QQix_LEDIhyi61Hs._xbnckHOxT2g9hstGulLfwDSxeVj9LGjevCjvZUTawY</picture>
-  </offer>
-  <offer id="7998124606">
-    <url>https://www.avito.ru/tyumen/avtomobili/lexus_is_2.5_at_2007_279_800_km_7998124606?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>1299900</price>
-    <name>Lexus IS 2.5 AT, 2007, 279 800 км</name>
-    <picture>https://00.img.avito.st/image/1/1.gwOLG7aAL-rBvNHsgVGKOYm7Le45rCvqOctO7jlEKRQ5uCvwwbzR7D0.HrxVeqh4IcwFnjdy-qx1yss6f5tL_MyAdgp8pb2BIOM?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8158543387">
-    <url>https://www.avito.ru/tyumen/avtomobili/ford_c-max_1.8_mt_2007_177_077_km_8158543387?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
-    <price>390000</price>
-    <name>Ford C-MAX 1.8 MT, 2007, 177 077 км</name>
-    <picture>https://c90.img.avito.st/image/1/1.5ev38baASQK9VrcEsY7Dz_VRSwZFRk0CRSEoBkWuT_xFUk0YvVa3BEE.3wdiQe3Wom9vbL0s7J-XNI1Vsi0GQUOovNunsizQr2Q</picture>
-  </offer>
-  <offer id="8489951852">
-    <url>https://www.avito.ru/tyumen/avtomobili/kia_soul_1.6_at_2008_394_579_km_8489951852?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>720000</price>
-    <name>Kia Soul 1.6 AT, 2008, 394 579 км</name>
-    <picture>https://90.img.avito.st/image/1/1.Im5DE7aAjocJtHCBC2cdP0KzjIPxpIqH8cPvg_FMiHnxsIqdCbRwgfU.VSIvzfBl09VykrdyGDFlMlb8eGQBACj-Xj-ASVvCbhg</picture>
-  </offer>
-  <offer id="8286127693">
-    <url>https://www.avito.ru/tyumen/avtomobili/hyundai_sonata_2.0_at_2020_72_929_km_8286127693?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>2080000</price>
-    <name>Hyundai Sonata 2.0 AT, 2020, 72 929 км</name>
-    <picture>https://70.img.avito.st/image/1/1.WQUog7aA9exiJAvqFqZXPCoj9-iaNPHsmlOU6Jrc8xKaIPH2YiQL6p4.mDcbWKpnK1ErXk1Gkl853LaoUYinEE8UqmsfwyjOz6s</picture>
-  </offer>
-  <offer id="8348788239">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.5_at_2015_175_071_km_8348788239?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>2299000</price>
-    <name>Toyota RAV4 2.5 AT, 2015, 175 071 км</name>
-    <picture>https://c80.img.avito.st/image/1/1._nuQZ7aAUpLawKyU4CiYFoLHUJYi0FaSIrczliI4VGwixFaI2sCslCY.jBlagp4pkBOeIWIjQwsXjWVzqSt9AQaPFXnsG6ikxmQ</picture>
-  </offer>
-  <offer id="8094295526">
-    <url>https://www.avito.ru/tyumen/avtomobili/opel_astra_1.8_at_2010_185_311_km_8094295526?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>495000</price>
-    <name>Opel Astra 1.8 AT, 2010, 185 311 км</name>
-    <picture>https://10.img.avito.st/image/1/1.nqu-AbaAMkL0psxEjl-8j7yhMEYMtjZCDNFTRgxeNLwMojZY9KbMRAg.e_fLsrQPvPtetCDf1SltpTXacihugXqwN4Q3WdSgPXM?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8379820951">
-    <url>https://www.avito.ru/tyumen/avtomobili/honda_n-wgn_0.7_cvt_2015_141_613_km_8379820951?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>830000</price>
-    <name>Honda N-WGN 0.7 CVT, 2015, 141 613 км</name>
-    <picture>https://70.img.avito.st/image/1/1.TAYz-7aA4O95XB7pJ6pwQTNb4uuBTOTvgSuB64Gk5hGBWOT1eVwe6YU.Nng45XERoTfRMLC2emzVpZxiENE504gUwxf6o-X8iss</picture>
-  </offer>
-  <offer id="8126445651">
-    <url>https://www.avito.ru/tyumen/avtomobili/nissan_x-trail_2.0_cvt_2013_149_400_km_8126445651?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>1499000</price>
-    <name>Nissan X-Trail 2.0 CVT, 2013, 149 400 км</name>
-    <picture>https://00.img.avito.st/image/1/1.J481eraAi2Z_3XVgd2YltTfaiWKHzY9mh6rqYocljZiH2Y98f911YIM.chwGeoU_0bdnFwWjdkC9ArMKXpYGCC7mRHKH4iF-do8?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8304481200">
-    <url>https://www.avito.ru/tyumen/avtomobili/infiniti_q50_3.0_at_2017_123_535_km_8304481200?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>3450000</price>
-    <name>Infiniti Q50 3.0 AT, 2017, 123 535 км</name>
-    <picture>https://50.img.avito.st/image/1/1.pMfHo7aACC6NBPYog4Wb48UDCip1FAwudXNpKnX8DtB1AAw0jQT2KHE.d12eAKJ6BVkp8NJN62bd9zAyFM-L52grfdIAIHXVIWs</picture>
-  </offer>
-  <offer id="8286155536">
-    <url>https://www.avito.ru/tyumen/avtomobili/nissan_x-trail_2.0_cvt_2008_258_069_km_8286155536?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>950000</price>
-    <name>Nissan X-Trail 2.0 CVT, 2008, 258 069 км</name>
-    <picture>https://50.img.avito.st/image/1/1.heG5V7aAKQjz8NcOvwWW2rv3KwwL4C0IC4dIDAsIL_YL9C0S8_DXDg8.IBqofkjRHYMHb1nrgd6HyIMhdWxl_-XXiXEiQw4rY_E</picture>
-  </offer>
-  <offer id="8336928827">
-    <url>https://www.avito.ru/tyumen/avtomobili/kia_stinger_3.3_at_2018_101_602_km_8336928827?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>2995000</price>
-    <name>Kia Stinger 3.3 AT, 2018, 101 602 км</name>
-    <picture>https://80.img.avito.st/image/1/1.fUG2uraA0aj8HS-uwLsDZbQa06wEDdWoBGqwrATl11YEGdWy_B0vrgA.JJRnQGMnuEN_ckVAa4UJOXTj7anV4kOuPb5_PJGiIzs</picture>
-  </offer>
-  <offer id="7198846320">
-    <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_s-klass_4.7_at_2015_196_553_km_7198846320?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>3350000</price>
-    <name>Mercedes-Benz S-класс 4.7 AT, 2015, 196 553 км</name>
-    <picture>https://c80.img.avito.st/image/1/1.RVm25raA6bD8QRe2sOtnfbRG67QEUe2wBDaItAS5704ERe2q_EEXtgA.DJi34S-aEpWcW-rwtFwRQ9UlIH1BZPMI2XuLsbMwWEw</picture>
-  </offer>
-  <offer id="8453639527">
-    <url>https://www.avito.ru/tyumen/avtomobili/skoda_octavia_1.8_amt_2013_187_738_km_8453639527?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>1400000</price>
-    <name>Skoda Octavia 1.8 AMT, 2013, 187 738 км</name>
-    <picture>https://20.img.avito.st/image/1/1.ecH2AbaA1Si8pisuiEQUrfah1yxEttEoRNG0LERe09ZEotEyvKYrLkA.rO6bz9AYRk02LiAe3t3rAdjvuItwq1WTv3KDR6QNUhg?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8062644677">
-    <url>https://www.avito.ru/tyumen/avtomobili/bmw_x5_4.4_at_2012_200_444_km_8062644677?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
-    <price>1444000</price>
-    <name>BMW X5 4.4 AT, 2012, 200 444 км</name>
-    <picture>https://10.img.avito.st/image/1/1.y-vWq7aAZwKcDJkEzPy0z9QLZQZkHGMCZHsGBmT0YfxkCGMYnAyZBGA.bt7g57banGE7jEpCSjzhxvYfbFMdbND2LtDBq_4UBZA?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8370809066">
-    <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_granta_1.6_mt_2025_19_000_km_8370809066?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>999000</price>
-    <name>ВАЗ (LADA) Granta 1.6 MT, 2025, 19 000 км</name>
-    <picture>https://30.img.avito.st/image/1/1.MLohS7aAnFNr7GJVTQdd5CDrnleT_JhTk5v9V5MUmq2T6JhJa-xiVZc.4wJpsgVwcMn74Z3IKH2qSURQeCa93L_PvTgFJmIxoWc?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8481866465">
-    <url>https://www.avito.ru/tyumen/avtomobili/mazda_6_2.0_at_2020_132_482_km_8481866465?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>2350000</price>
-    <name>Mazda 6 2.0 AT, 2020, 132 482 км</name>
-    <picture>https://00.img.avito.st/image/1/1.frz2obaA0lW8BixThqgLmPQB0FFEFtZVRHGzUUT-1KtEAtZPvAYsU0A.uz7thsArz7bq7qDzC_qmm0BSNcD0d-e5bkU4CuiEh3g?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8368005607">
-    <url>https://www.avito.ru/tyumen/avtomobili/kia_rio_1.4_mt_2010_432_544_km_8368005607?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>369000</price>
-    <name>Kia Rio 1.4 MT, 2010, 432 544 км</name>
-    <picture>https://50.img.avito.st/image/1/1.DwEuM7aAo-hklF3uPDMrYS2ToeychKfonOPC7JxspRackKfyZJRd7pg.J36RMJf8vRZV6odFnQtkaMEfB_-S8-2yX97OVQZuWC4</picture>
-  </offer>
-  <offer id="8190031707">
-    <url>https://www.avito.ru/tyumen/avtomobili/mazda_cx-5_2.5_at_2016_175_242_km_8190031707?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>2099000</price>
-    <name>Mazda CX-5 2.5 AT, 2016, 175 242 км</name>
-    <picture>https://c80.img.avito.st/image/1/1.luL247aAOgu8RMQN1rW7xvRDOA9EVD4LRDNbD0S8PPVEQD4RvETEDUA.y6p5Jr2LpbBYbH9maU8UotqaWtMPXy8_leqKptuDUig</picture>
-  </offer>
-  <offer id="8094374759">
-    <url>https://www.avito.ru/tyumen/avtomobili/bmw_x6_m_4.4_at_2011_217_753_km_8094374759?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>2050000</price>
-    <name>BMW X6 M 4.4 AT, 2011, 217 753 км</name>
-    <picture>https://40.img.avito.st/image/1/1.VxYkILaA-_9uhwX5BlFGLSaA-fuWl___lvCa-5Z__QGWg__lbocF-ZI.1GrPmh9ToCGgfRjY5QOKpMX8DFTWldbDwvPI-7_FuKY</picture>
-  </offer>
-  <offer id="8347759468">
-    <url>https://www.avito.ru/tyumen/avtomobili/skoda_kodiaq_1.4_amt_2019_169_133_km_8347759468?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>2270000</price>
-    <name>Skoda Kodiaq 1.4 AMT, 2019, 169 133 км</name>
-    <picture>https://60.img.avito.st/image/1/1.UmrZ7baA_oOTSgCF8eB1AM1N_IdrWvqDaz2fh2uy-H1rTvqZk0oAhW8.Jo_rbwxzvpdvXkT1e_GZB3bo2RJImzjYhCzDVXaapZw</picture>
-  </offer>
-  <offer id="8094131173">
-    <url>https://www.avito.ru/tyumen/avtomobili/subaru_forester_2.0_cvt_2013_311_667_km_8094131173?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>1200000</price>
-    <name>Subaru Forester 2.0 CVT, 2013, 311 667 км</name>
-    <picture>https://80.img.avito.st/image/1/1.8HvNh7aAXJKHIKKUoZjzQc8nXpZ_MFiSf1c9ln_YWmx_JFiIhyCilHs.yahP3RyVZ7KOCGXX2K4qJCPGHR27fijt1FX4oPQqC3I</picture>
-  </offer>
-  <offer id="8317943484">
-    <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_gla-klass_1.3_amt_2021_91_804_km_8317943484?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>2999000</price>
-    <name>Mercedes-Benz GLA-класс 1.3 AMT, 2021, 91 804 км</name>
-    <picture>https://c80.img.avito.st/image/1/1.y-vzK7aAZwK5jJkE6Uy9z_GLZQZBnGMCQfsGBkF0YfxBiGMYuYyZBEU.qg2eJAMRjOGQVrYdzuBFT-g_3mzMUfOEyhETlEJr3b0</picture>
-  </offer>
-  <offer id="8368620098">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.4_at_2012_188_518_km_8368620098?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>1700000</price>
-    <name>Toyota RAV4 2.4 AT, 2012, 188 518 км</name>
-    <picture>https://90.img.avito.st/image/1/1.EGN18baAvIo_VkKMWY0ddztQvo7HRriKxyHdjseuunTHUriQP1ZCjMM.sXfWMdXfwNwLJu5aDRU8r-IevPNMqwiLZd-RX0rlYv8</picture>
-  </offer>
-  <offer id="8286845338">
-    <url>https://www.avito.ru/tyumen/avtomobili/audi_a4_2.0_at_2011_259_733_km_8286845338?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>1190000</price>
-    <name>Audi A4 2.0 AT, 2011, 259 733 км</name>
-    <picture>https://00.img.avito.st/image/1/1.U56eo7aA_3fUBAFxtNIpupwD_XMsFPt3LHOecyz8-YksAPtt1AQBcSg.aEiozroGTvPBDr_LWWAR5CHdxGFBzdvYaM9RrJNLa4U?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8409216963">
-    <url>https://www.avito.ru/tyumen/avtomobili/honda_freed_1.5_cvt_2010_142_116_km_8409216963?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>1050000</price>
-    <name>Honda Freed 1.5 CVT, 2010, 142 116 км</name>
-    <picture>https://60.img.avito.st/image/1/1.3Xm24baAcZD8Ro-WgP74XbRBc5QEVnWQBDEQlAS-d24EQnWK_EaPlgA.BzOpIpEdg7greCvLcQk2dpu4B6u1wo_yNEOXnYI1yzA</picture>
-  </offer>
-  <offer id="8410363336">
-    <url>https://www.avito.ru/tyumen/avtomobili/hyundai_sonata_2.0_at_2020_146_191_km_8410363336?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
-    <price>2150000</price>
-    <name>Hyundai Sonata 2.0 AT, 2020, 146 191 км</name>
-    <picture>https://20.img.avito.st/image/1/1.hxHXNraAK_idkdX-1RS3OZuXKfxlgS_4ZeZK_GVpLQZllS_inZHV_mE.OUomhIxBT7KQjcw410Za0tTesejG0ZozNZr9HQX4OC8?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8221969420">
-    <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_amarok_2.0_at_2013_331_475_km_8221969420?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>1895000</price>
-    <name>Volkswagen Amarok 2.0 AT, 2013, 331 475 км</name>
-    <picture>https://50.img.avito.st/image/1/1.p-xoI7aACwUihPUDKknfyGqDCQHalA8F2vNqAdp8DfvagA8fIoT1A94.of7AGa1BsAy6P9Jr2zutqDTfmJqQDVK5FQty54GEEu8</picture>
-  </offer>
-  <offer id="8347996012">
-    <url>https://www.avito.ru/tyumen/avtomobili/ford_mondeo_1.6_mt_2011_285_710_km_8347996012?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>690000</price>
-    <name>Ford Mondeo 1.6 MT, 2011, 285 710 км</name>
-    <picture>https://c60.img.avito.st/image/1/1.bqD3nLaAwkm9OzxPp7UAsPQ8wE1FK8ZJRUyjTUXDxLdFP8ZTvTs8T0E.zUedhws1_viPmBTitrCu36pQz750UYLedf0YMYEmJTQ</picture>
-  </offer>
-  <offer id="8158612847">
-    <url>https://www.avito.ru/tyumen/avtomobili/skoda_octavia_1.4_amt_2019_174_842_km_8158612847?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>1790000</price>
-    <name>Skoda Octavia 1.4 AMT, 2019, 174 842 км</name>
-    <picture>https://50.img.avito.st/image/1/1.zevxebaAYQK73p8E50Ltz_PZYwZDzmUCQ6kABkMmZ_xD2mUYu96fBEc.DZTslzT35UfNlNFQ77ygHkfOAxU72kWN8QiUsj_TVSA</picture>
-  </offer>
-  <offer id="8524849831">
-    <url>https://www.avito.ru/tyumen/avtomobili/honda_civic_1.8_amt_2008_213_476_km_8524849831?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>495000</price>
-    <name>Honda Civic 1.8 AMT, 2008, 213 476 км</name>
-    <picture>https://10.img.avito.st/image/1/1.9u1cUbaAWgQW9qQCPB6B5kvxWADu5l4E7oE7AO4OXPru8l4eFvakAuo.aPguuXjzV-p3dUGq2T-YTRoz8aX8NEl2O1QVvcUcKkw?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8286420787">
-    <url>https://www.avito.ru/tyumen/avtomobili/kia_ceed_1.6_at_2012_305_482_km_8286420787?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>890000</price>
-    <name>Kia Ceed 1.6 AT, 2012, 305 482 км</name>
-    <picture>https://c80.img.avito.st/image/1/1.0JC487aAfHnyVIJ_lMDWqrpTfn0KRHh5CiMdfQqseocKUHhj8lSCfw4.MSxp6XkEsOgdaGlgOXUeL-yTMner8Y5I71Cel4mCgYM</picture>
-  </offer>
-  <offer id="8283032846">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_camry_2.4_at_2008_442_449_km_8283032846?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>980000</price>
-    <name>Toyota Camry 2.4 AT, 2008, 442 449 км</name>
-    <picture>https://40.img.avito.st/image/1/1.t2huXbaAG4Ek-uWHDHezUmz9GYXc6h-B3I16hdwCHX_c_h-bJPrlh9g.-8RKfIIrl3mdeb_qAlil_gnFRDFSeuz9GJcELd_ti3U</picture>
-  </offer>
-  <offer id="8318853712">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_corolla_1.6_cvt_2013_206_917_km_8318853712?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>1320000</price>
-    <name>Toyota Corolla 1.6 CVT, 2013, 206 917 км</name>
-    <picture>https://40.img.avito.st/image/1/1.ae-2g7aAxQb8JDsA6NZOy7QjxwIENMEGBFOkAgTcw_gEIMEc_CQ7AAA.r1CGgC_EqofNDIf35YmRW51gbXHQilSG_x20Ie--4Mw</picture>
-  </offer>
-  <offer id="8498927266">
-    <url>https://www.avito.ru/tyumen/avtomobili/gaz_gazel_next_2.7_mt_2023_291_450_km_8498927266?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>1980000</price>
-    <name>ГАЗ ГАЗель Next 2.7 MT, 2023, 291 450 км</name>
-    <picture>https://50.img.avito.st/image/1/1.03uXCraAf5LdrYGUvWm8F5SqfZYlvXuSJdoeliVVeWwlqXuI3a2BlCE.ACYdt3yjuAqSDx-MUEzPsNpfyYecezFSa7ui2os4Sgc</picture>
-  </offer>
-  <offer id="8286409154">
-    <url>https://www.avito.ru/tyumen/avtomobili/kia_ceed_1.6_at_2012_166_913_km_8286409154?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>1150000</price>
-    <name>Kia Ceed 1.6 AT, 2012, 166 913 км</name>
-    <picture>https://c80.img.avito.st/image/1/1.POxzMraAkAU5lW4DB3ZQ13GSkgHBhZQFweLxAcFtlvvBkZQfOZVuA8U.kyko5nSVqat3yhk74Po71SO57eaYKjGK4a79GBNVcLc</picture>
-  </offer>
-  <offer id="8030773016">
-    <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_granta_1.6_mt_2022_76_264_km_8030773016?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>790000</price>
-    <name>ВАЗ (LADA) Granta 1.6 MT, 2022, 76 264 км</name>
-    <picture>https://30.img.avito.st/image/1/1.W9Rvi7aA9z0lLAk7VfpK720r9TndPPM93VuWOd3U8cPdKPMnJSwJO9k.crLVl45AFt0880g_Np9VbLPi1QYgqQxHg4dLWyvrcG4?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8254345031">
-    <url>https://www.avito.ru/tyumen/avtomobili/nissan_teana_2.0_at_2006_316_761_km_8254345031?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>770000</price>
-    <name>Nissan Teana 2.0 AT, 2006, 316 761 км</name>
-    <picture>https://30.img.avito.st/image/1/1.pOZro7aACA8hBPYJL6nYwmkDCgvZFAwP2XNpC9n8DvHZAAwVIQT2Cd0.oMqtqoPkGRZjLTA72e72gPyrcVebJl880V5lkhpPhxo?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8488970091">
-    <url>https://www.avito.ru/tyumen/avtomobili/honda_civic_1.8_amt_2008_257_502_km_8488970091?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
-    <price>670000</price>
-    <name>Honda Civic 1.8 AMT, 2008, 257 502 км</name>
-    <picture>https://00.img.avito.st/image/1/1.1qFQ_baAekgaWoROcNKDq1NdeEziSn5I4i0bTOKifLbiXn5SGlqETuY.GyERAaxlRfuSAq4836aLPTlGhBxIwZGrUyvbqexWlKE?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="8318490701">
-    <url>https://www.avito.ru/tyumen/avtomobili/toyota_camry_2.5_at_2019_108_056_km_8318490701?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiaHNGRHFCbnZQNmIwS3FkQyI7fVeJ5gBYAAAA</url>
-    <price>2799000</price>
-    <name>Toyota Camry 2.5 AT, 2019, 108 056 км</name>
-    <picture>https://00.img.avito.st/image/1/1.me-jg7aANQbpJMsAnf2_y6EjNwIRNDEGEVNUAhHcM_gRIDEc6STLABU.nnoJF8veRK0fUFZzfImawVjRDJtUCYKeioz9YrFTVSI?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
-  </offer>
-  <offer id="promo-kia-seltos">
-    <url>https://www.avito.ru/orion-avto-promo/kia-seltos</url>
-    <price>2250000</price>
-    <name>Kia Seltos 2.0 AT, 2024, 10 000 км</name>
-    <picture>https://c80.img.avito.st/image/1/promo-kia-seltos.jpg</picture>
-  </offer>
-</offers>
+<yml_catalog date="2026-11-04 14:15">
+  <shop>
+    <name>ОРИОН-АВТО</name>
+    <company>ОРИОН-АВТО</company>
+    <url>https://www.avito.ru/brands/orion-avto</url>
+  </shop>
+  <offers>
+    <offer id="8286062225">
+      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.6_at_2020_67_352_km_8286062225?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>1290000</price>
+      <name>Hyundai Solaris 1.6 AT, 2020, 67 352 км</name>
+      <picture>https://c70.img.avito.st/image/1/1.dqu-tLaA2kL0EyRE3r1Rj7wU2EYMA95CDGS7Rgzr3LwMF95Y9BMkRAg.hl4IDvB5WjIl0HibK3xmBZvJr0ypYwv-WcrwL7U96GA</picture>
+    </offer>
+    <offer id="8360807357">
+      <url>https://www.avito.ru/tyumen/avtomobili/kia_rio_1.6_at_2015_206_770_km_8360807357?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>1050000</price>
+      <name>Kia Rio 1.6 AT, 2015, 206 770 км</name>
+      <picture>https://60.img.avito.st/image/1/1.vL7w97aAEFe6UO5RhPXzg_BXElNCQBRXQidxU0KoFqlCVBRNulDuUUY.WNZ8mstfsh27-OdXpFN2JlaIcz73O9JQdLTwSINI8yo</picture>
+    </offer>
+    <offer id="8094767501">
+      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.4_at_2019_162_380_km_8094767501?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>1070000</price>
+      <name>Hyundai Solaris 1.4 AT, 2019, 162 380 км</name>
+      <picture>https://c60.img.avito.st/image/1/1.aOsh87aAxAJrVDoEfdIdzyNTxgaTRMACkyOlBpOswvyTUMAYa1Q6BJc.xMQ2cIS5_M3sm2zCSIRIlPKUv5hg7h1KlDDU44d1JFc</picture>
+    </offer>
+    <offer id="7198643845">
+      <url>https://www.avito.ru/tyumen/avtomobili/nissan_ad_1.5_cvt_2017_64_000_km_7198643845?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>880000</price>
+      <name>Nissan AD 1.5 CVT, 2017, 64 000 км</name>
+      <picture>https://20.img.avito.st/image/1/1.9DK2hLaAWNv8I6bd0ovcFrQkWt8EM1zbBFQ53wTbXiUEJ1zB_COm3QA.RWdB2OQIx9KewgtnfE1tRqlpMB45KKYImEl64yeZGwA?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8365927982">
+      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_e-klass_2.0_at_2018_214_057_km_8365927982?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>2570000</price>
+      <name>Mercedes-Benz E-класс 2.0 AT, 2018, 214 057 км</name>
+      <picture>https://90.img.avito.st/image/1/1.2s-dlbaAdibXMoggpcqmwJ81dCIvInImL0UXIi_KcNgvNnI81zKIICs.G2VpeZMoP7J5SyJL9M20MWxM_Q0-TzO-_21gAqjLIug</picture>
+    </offer>
+    <offer id="7326662300">
+      <url>https://www.avito.ru/tyumen/avtomobili/porsche_macan_gts_3.0_amt_2017_119_500_km_7326662300?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>3300000</price>
+      <name>Porsche Macan GTS 3.0 AMT, 2017, 119 500 км</name>
+      <picture>https://c80.img.avito.st/image/1/1.XeuvObaA8QLlng8EmSAjz62Z8wYdjvUCHemQBh1m9_wdmvUY5Z4PBBk.RRX2M7Um_gX0evhpZJOadHq0EddteM7ZvEkyHZ960c0</picture>
+    </offer>
+    <offer id="7966754826">
+      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_passat_cc_1.8_amt_2010_324_126_km_7966754826?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>650000</price>
+      <name>Volkswagen Passat CC 1.8 AMT, 2010, 324 126 км</name>
+      <picture>https://c80.img.avito.st/image/1/1.RFa2rLaA6L_8Cxa5ssU8crQM6rsEG-y_BHyJuwTz7kEED-yl_AsWuQA.v4jGoR7O0Ex3I4_-Tr8E4H0SPqAs4bXc1Y9bL2GDOMI</picture>
+    </offer>
+    <offer id="7454144113">
+      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_granta_1.6_mt_2018_105_340_km_7454144113?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>440000</price>
+      <name>ВАЗ (LADA) Granta 1.6 MT, 2018, 105 340 км</name>
+      <picture>https://50.img.avito.st/image/1/1.AJC187aArHn_VFJ_uZMHqrdTrn0HRKh5ByPNfQesqocHUKhj_1RSfwM.Lm9FlxXfc5tZ6qdjmgD0gU0EVc9juT7I6E9XxCh8uBc</picture>
+    </offer>
+    <offer id="8317888312">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_corolla_1.8_cvt_2018_175_837_km_8317888312?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>1659000</price>
+      <name>Toyota Corolla 1.8 CVT, 2018, 175 837 км</name>
+      <picture>https://10.img.avito.st/image/1/1.xMnXo7aAaCCdBJYm05Tn7dUDaiRlFGwgZXMJJGX8bt5lAGw6nQSWJmE.lmKt-xE5W_LFUoUQzKgFAXFTW4yUTC79OuD6olhKjXI?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8434942657">
+      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.6_mt_2017_136_032_km_8434942657?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>750000</price>
+      <name>Hyundai Solaris 1.6 MT, 2017, 136 032 км</name>
+      <picture>https://70.img.avito.st/image/1/1.gLvNoraALFKHBdJUweCHgc8CLlZ_FShSf3JNVn_9Kqx_AShIhwXSVHs.of2K36Pu8J7IPFougzFqbeD7_-IlVz5LynA26sWenaU</picture>
+    </offer>
+    <offer id="8390982300">
+      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_ix35_2.0_mt_2014_157_628_km_8390982300?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>1290000</price>
+      <name>Hyundai ix35 2.0 MT, 2014, 157 628 км</name>
+      <picture>https://30.img.avito.st/image/1/1.jwgWILaAI-Fch93nBDbmMxSAIeWklyfhpPBC5aR_JR-kgyf7XIfd56A.TDR-BX2cvUSLEFZuNYrpVrrov8qU9lGJzf54GSv4IoU?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8395389047">
+      <url>https://www.avito.ru/tyumen/avtomobili/infiniti_qx56_5.6_at_2012_167_516_km_8395389047?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoid1dCcnlya2lQc3VRUXJaWCI7fe4t6KBYAAAA</url>
+      <price>2050000</price>
+      <name>Infiniti QX56 5.6 AT, 2012, 167 516 км</name>
+      <picture>https://70.img.avito.st/image/1/1.q9Rui7aABz0kLPk7NNm672wrBTncPAM93FtmOdzUAcPcKAMnJCz5O9g.NHRlQgNyr8bGZnuSzXOb_Wjm5wk4dp3a0EvUOrWT4vw</picture>
+    </offer>
+    <offer id="8423302791">
+      <url>https://www.avito.ru/tyumen/avtomobili/lexus_nx_2.0_cvt_2015_68_395_km_8423302791?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>2700000</price>
+      <name>Lexus NX 2.0 CVT, 2015, 68 395 км</name>
+      <picture>https://40.img.avito.st/image/1/1.gcT_eraALS213dMr8WT7if7aLylNzSktTapMKU0lK9NN2Sk3td3TK0k.E6ZazI8qE9P6C3CZzYyBSpB25JPcwvo1YHBiik4Ab8M</picture>
+    </offer>
+    <offer id="8440819434">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.0_mt_2014_377_305_km_8440819434?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>1790000</price>
+      <name>Toyota RAV4 2.0 MT, 2014, 377 305 км</name>
+      <picture>https://40.img.avito.st/image/1/1.DJ8tYbaAoHZnxl5wOUFv1CPBonKf1qR2n7HBcp8-poifwqRsZ8ZecJs.iLg-05aVb60bqVccrBm3wGhSdi-BQO5ArAEx8ccIpJk</picture>
+    </offer>
+    <offer id="8286765776">
+      <url>https://www.avito.ru/tyumen/avtomobili/xcite_x-cross_7_1.5_cvt_2024_23_897_km_8286765776?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>1940000</price>
+      <name>Xcite X-Cross 7 1.5 CVT, 2024, 23 897 км</name>
+      <picture>https://00.img.avito.st/image/1/1.G2uenraAt4LUOUmEpM4cUZw-tYYsKbOCLE7WhizBsXwsPbOY1DlJhCg.XcaPR_V78wWx6MxFVrKFelQKWbBEE62gjjt3e68LVpk?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8029957834">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_land_cruiser_4.6_at_2020_151_526_km_8029957834?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>7950000</price>
+      <name>Toyota Land Cruiser 4.6 AT, 2020, 151 526 км</name>
+      <picture>https://c70.img.avito.st/image/1/1.Vuhv47aA-gElRAQHT9IvzG1D-AXdVP4B3TObBd28_P_dQP4bJUQEB9k.3so18u3-SwgkRzvj3zAzO9Aa0PSQOAIKbg6-LI4184A</picture>
+    </offer>
+    <offer id="8254864824">
+      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_tiguan_2.0_at_2012_168_311_km_8254864824?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>1270000</price>
+      <name>Volkswagen Tiguan 2.0 AT, 2012, 168 311 км</name>
+      <picture>https://20.img.avito.st/image/1/1.omXyo7aADoy4BPCKuuWCQfADDIhAFAqMQHNviED8CHJAAAqWuATwikQ.lZGo_1LjOgxqNyrv2MhibwFYWw-XdwM7-vGl93sq-_s?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="7678203884">
+      <url>https://www.avito.ru/tyumen/avtomobili/lexus_es_2.5_at_2019_119_617_km_7678203884?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>3645000</price>
+      <name>Lexus ES 2.5 AT, 2019, 119 617 км</name>
+      <picture>https://90.img.avito.st/image/1/1.z2hUi7aAY4EeLJ2HRoygU1YrYYXmPGeB5lsChebUZX_mKGebHiydh-I.XKDL8eUwb7W3Ey5NzhT54PIr_-CX2a_ZHyG0_hpzYzY</picture>
+    </offer>
+    <offer id="8264235969">
+      <url>https://www.avito.ru/tyumen/avtomobili/kia_sportage_2.0_at_2012_183_853_km_8264235969?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>1250000</price>
+      <name>Kia Sportage 2.0 AT, 2012, 183 853 км</name>
+      <picture>https://c90.img.avito.st/image/1/1.H_riI7aAsxOohE0V0F893uCDsRdQlLcTUPPSF1B8te1QgLcJqIRNFVQ.j5zcQ9pxXk2QL2JYLQ_yplloZqoVPYP9Hd65pK-EFbw</picture>
+    </offer>
+    <offer id="8190088605">
+      <url>https://www.avito.ru/tyumen/avtomobili/lexus_nx_2.0_cvt_2016_95_888_km_8190088605?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>2470000</price>
+      <name>Lexus NX 2.0 CVT, 2016, 95 888 км</name>
+      <picture>https://30.img.avito.st/image/1/1.q-q_C7aABwP1rPkF5WmOzr2rBQcNvAMDDdtmBw1UAf0NqAMZ9az5BQk.YTGk8f1e0pCecJKKlYSiOY98h1oIHlpCJvNLoBYL8aM?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="7998099514">
+      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_multivan_3.2_at_2008_397_673_km_7998099514?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>1490000</price>
+      <name>Volkswagen Multivan 3.2 AT, 2008, 397 673 км</name>
+      <picture>https://20.img.avito.st/image/1/1.I0O28LaAj6r8V3Gs_NBQZ7RQja4ER4uqBCDurgSviVQEU4uw_FdxrAA.W1GNVV-3LnmKoXHiJyz35M6NCQic7Fw2Ji-kH40keOI?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8190334420">
+      <url>https://www.avito.ru/tyumen/avtomobili/nissan_murano_3.5_cvt_2013_110_246_km_8190334420?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>1500000</price>
+      <name>Nissan Murano 3.5 CVT, 2013, 110 246 км</name>
+      <picture>https://40.img.avito.st/image/1/1.kNfm2LaAPD6sf8I4ysqQ7eR4PjpUbzg-VAhdOlSHOsBUezgkrH_COFA.BRf6MRWjM94EPB8HxFBNpFgUkqVXn_Rr3Ybj8qPMkno</picture>
+    </offer>
+    <offer id="8577209074">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_camry_2.0_at_2019_63_082_km_8577209074?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>2550000</price>
+      <name>Toyota Camry 2.0 AT, 2019, 63 082 км</name>
+      <picture>https://20.img.avito.st/image/1/1.n1ZuV7aAM78k8M25XGmbHG_3Mbvc4De_3IdSu9wINUHc9DelJPDNudg.Cxz0-incCkbYDi0yXzelst3iwVKWmzmXKIk7IkrktYI?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="7966580763">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_land_cruiser_4.2_mt_1994_529_229_km_7966580763?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiZWpWVVVkNEpCNTdVbmlScCI7feXJBqhYAAAA</url>
+      <price>1200000</price>
+      <name>Toyota Land Cruiser 4.2 MT, 1994, 529 229 км</name>
+      <picture>https://30.img.avito.st/image/1/1.zqpGvLaAYkMMG5xFVpepkUQcYEf0C2ZD9GwDR_TjZL30H2ZZDBucRfA.UFgmQeb2WahXG8EETtnRk3B5TsfYV4A1iLf-toT1kLo?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8427818700">
+      <url>https://www.avito.ru/tyumen/avtomobili/bmw_x6_3.0_at_2008_340_591_km_8427818700?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>1370000</price>
+      <name>BMW X6 3.0 AT, 2008, 340 591 км</name>
+      <picture>https://c80.img.avito.st/image/1/1.a1i4aLaAx7Hyzzm34mVPJbnIxbUK38OxCrimtQo3wU8Ky8Or8s85tw4.ZNSBVhHE-f2CZGSgCmvbekmy-NpOH6UM9bZHzwg8zsE</picture>
+    </offer>
+    <offer id="8126700952">
+      <url>https://www.avito.ru/tyumen/avtomobili/volvo_xc90_2.5_at_2007_275_746_km_8126700952?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>850000</price>
+      <name>Volvo XC90 2.5 AT, 2007, 275 746 км</name>
+      <picture>https://c90.img.avito.st/image/1/1.xahso7aAaUEmBJdHapjhjG4Da0XeFG1B3nMIRd78b7_eAG1bJgSXR9o.jP4t5jQY2PPzkhmpQzENeNg-6mIYJ5eZDIso-fOUacE</picture>
+    </offer>
+    <offer id="7838780499">
+      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_4x4_niva_1.7_mt_2008_133_830_km_7838780499?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>385000</price>
+      <name>ВАЗ (LADA) 4x4 (Нива) 1.7 MT, 2008, 133 830 км</name>
+      <picture>https://80.img.avito.st/image/1/1.yOnFc7aAZACP1JoG2RjhzcfTZgR3xGAAd6MFBHcsYv530GAaj9SaBnM.DF-e-OqpYvMu5XYFPwciNeSeTtBaEmVjv-WRN3BkrUA</picture>
+    </offer>
+    <offer id="8390122387">
+      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_2108_1.5_mt_1997_111_840_km_8390122387?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>250000</price>
+      <name>ВАЗ (LADA) 2108 1.5 MT, 1997, 111 840 км</name>
+      <picture>https://00.img.avito.st/image/1/1.GtkUaLaAtjBez0g2LBRktlvJtDSm37IwprjXNKY3sM6my7IqXs9INqI.5YOY0hfEG-FpOEbfIH3zOikvFTTCBZ3cmDoSlqrW8C4?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="7902328549">
+      <url>https://www.avito.ru/tyumen/avtomobili/renault_kaptur_1.6_cvt_2018_138_054_km_7902328549?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>1150000</price>
+      <name>Renault Kaptur 1.6 CVT, 2018, 138 054 км</name>
+      <picture>https://10.img.avito.st/image/1/1.w7IemLaAb1tUP5FdFPvyixw4bV-sL2tbrEgOX6zHaaWsO2tBVD-RXag.2wGuI5wQnVSVO2O38ckh1tWEIGtT8JJhEEbkWqRVmps?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8441914356">
+      <url>https://www.avito.ru/tyumen/avtomobili/suzuki_grand_vitara_2.4_at_2011_229_402_km_8441914356?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>950000</price>
+      <name>Suzuki Grand Vitara 2.4 AT, 2011, 229 402 км</name>
+      <picture>https://90.img.avito.st/image/1/1.KKS_B7aAhE31oHpL4yNG6bGnhkkNsIBNDdflSQ1YgrMNpIBX9aB6Swk.z7XuKNjBbXS4M3zROvdXJecii17MVTLI81e_B6UwHtI</picture>
+    </offer>
+    <offer id="8286106272">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_hilux_2.8_at_2016_284_632_km_8286106272?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>2640000</price>
+      <name>Toyota Hilux 2.8 AT, 2016, 284 632 км</name>
+      <picture>https://30.img.avito.st/image/1/1.H-w2I7aAswV8hE0DBHdmyDSDsQGElLcFhPPSAYR8tfuEgLcffIRNA4A.EFo8pE4ypSdYT8Pxp0bG53tpfFoDCjPT6hlM_b5gJQA?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="7998292729">
+      <url>https://www.avito.ru/tyumen/avtomobili/infiniti_fx37_3.7_at_2011_234_808_km_7998292729?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>1700000</price>
+      <name>Infiniti FX37 3.7 AT, 2011, 234 808 км</name>
+      <picture>https://20.img.avito.st/image/1/1.UgsNG7aA_uJHvADkJWJFFzC7_Oa_rPriv8uf5r9E-By_uPr4R7wA5Ls.2j_61BJ1E4M8-WpfXDbuSnn1OlVBtqnmeV1JYDVvels?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8158317454">
+      <url>https://www.avito.ru/tyumen/avtomobili/skoda_rapid_1.6_mt_2016_218_333_km_8158317454?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>650000</price>
+      <name>Skoda Rapid 1.6 MT, 2016, 218 333 км</name>
+      <picture>https://00.img.avito.st/image/1/1.bOxMxraAwAUGYT4DGPd_105mwgH-ccQF_hahAf6Zxvv-ZcQfBmE-A_o.tDNjoV48iIkbTYUUHMZ8EQ8UHi9GjXWMbsZYsukqdfo?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="7742836756">
+      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_touareg_3.0_at_2020_63_864_km_7742836756?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>6500000</price>
+      <name>Volkswagen Touareg 3.0 AT, 2020, 63 864 км</name>
+      <picture>https://00.img.avito.st/image/1/1.w_C-oraAbxn0BZEftJXi1LwCbR0MFWsZDHIOHQz9aecMAWsD9AWRHwg.OFWLcuNyNzyIi_uRwFwnyt80s5J1mx6xMCh9po0lVRU?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="7934176770">
+      <url>https://www.avito.ru/tyumen/avtomobili/lifan_solano_1.5_cvt_2015_98_955_km_7934176770?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>470000</price>
+      <name>LIFAN Solano 1.5 CVT, 2015, 98 955 км</name>
+      <picture>https://c70.img.avito.st/image/1/1.Vhru4raA-vOkRQT1ztc7IexC-PdcVf7zXDKb91y9_A1cQf7ppEUE9Vg.-BW0tbrQq9z8tE47gpN8vAzDwnaEQmbT3PzpiyjMJtA</picture>
+    </offer>
+    <offer id="8286826149">
+      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_glk-klass_3.5_at_2014_217_069_km_8286826149?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiRXNWSE1EN1Z0YjhGa1VKbSI7fWc-4SBYAAAA</url>
+      <price>1500000</price>
+      <name>Mercedes-Benz GLK-класс 3.5 AT, 2014, 217 069 км</name>
+      <picture>https://c80.img.avito.st/image/1/1.vdG5w7aAETjzZO8-z4m667tjEzwLdBU4CxNwPAucF8YLYBUi82TvPg8.ArKsnItHxPRfyvIOXNGrE0rLinjCdeQ11-mJvPTMqV8</picture>
+    </offer>
+    <offer id="8431663875">
+      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_2106_1.3_mt_1987_90_533_km_8431663875?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>250000</price>
+      <name>ВАЗ (LADA) 2106 1.3 MT, 1987, 90 533 км</name>
+      <picture>https://70.img.avito.st/image/1/1.MjLys7aAntu4FGDdmrc5BvATnN9ABJrbQGP_30DsmCVAEJrBuBRg3UQ.clvp3ecdCGmufUUpR8IC9fW9fP7dI5Ekbn6WuxkBkCY</picture>
+    </offer>
+    <offer id="7934682725">
+      <url>https://www.avito.ru/tyumen/avtomobili/ldv_maxus_2.5_mt_2009_68_259_km_7934682725?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>1250000</price>
+      <name>LDV Maxus 2.5 MT, 2009, 68 259 км</name>
+      <picture>https://70.img.avito.st/image/1/1.EUtA47aAvaIKREOkbrMScUJDv6byVLmi8jPcpvK8u1zyQLm4CkRDpPY.ZQ5SgblgvPCmRs7SIT0etPnjiTjpWu5iCTwuOM2t4Ww</picture>
+    </offer>
+    <offer id="8378370333">
+      <url>https://www.avito.ru/tyumen/avtomobili/skoda_superb_1.8_amt_2011_260_085_km_8378370333?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>890000</price>
+      <name>Skoda Superb 1.8 AMT, 2011, 260 085 км</name>
+      <picture>https://10.img.avito.st/image/1/1.UjXSvbaA_tyYGgDa-vBaD9Ad_NhgCvrcYG2f2GDi-CJgHvrGmBoA2mQ.PaEM4nO00GkepMnLf-5pY1aK63qhlrEWFzA2cmvZTeM?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8190315439">
+      <url>https://www.avito.ru/tyumen/avtomobili/genesis_g70_2.0_at_2018_176_706_km_8190315439?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>2050000</price>
+      <name>Genesis G70 2.0 AT, 2018, 176 706 км</name>
+      <picture>https://c60.img.avito.st/image/1/1.8cuzKraAXSL5jaMk3TXO77GKXyYBnVkiAfo8JgF1W9wBiVk4-Y2jJAU.pUT5YNIfvKbWVaKrGA2zGIlkleFZoIUcLiFOKFOHMsQ</picture>
+    </offer>
+    <offer id="8222721039">
+      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_multivan_2.8_at_2002_341_344_km_8222721039?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>1100000</price>
+      <name>Volkswagen Multivan 2.8 AT, 2002, 341 344 км</name>
+      <picture>https://60.img.avito.st/image/1/1.d2uldbaA24Lv0iWExwxfT6fV2YYXwt-CF6W6hhcq3XwX1t-Y79IlhBM.WXewZGgKpKOTpU5dvRvMwqeSZn7EHM41AGyYHLnIgjM</picture>
+    </offer>
+    <offer id="8327935782">
+      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_creta_1.6_at_2019_117_792_km_8327935782?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>1840000</price>
+      <name>Hyundai Creta 1.6 AT, 2019, 117 792 км</name>
+      <picture>https://50.img.avito.st/image/1/1.gZ7bcbaALXeR1tNx1Te7l8zRL3Npxil3aaFMc2kuK4lp0iltkdbTcW0.k7opPpa1CLkX94HroHDt7IsQRK7eSI1PV-x_CUySJ6c</picture>
+    </offer>
+    <offer id="8286239617">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_avensis_1.8_mt_2004_318_766_km_8286239617?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>620000</price>
+      <name>Toyota Avensis 1.8 MT, 2004, 318 766 км</name>
+      <picture>https://80.img.avito.st/image/1/1.OJDIM7aAlHmClGp_tA8wqsqTln16hJB5euP1fXpskod6kJBjgpRqf34.QRuOKVMAOU29d7VeOjmgtTuvTX6tZejXYRZ7_DymIEI</picture>
+    </offer>
+    <offer id="8318171185">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_corolla_1.8_cvt_2013_205_290_km_8318171185?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>1200000</price>
+      <name>Toyota Corolla 1.8 CVT, 2013, 205 290 км</name>
+      <picture>https://60.img.avito.st/image/1/1.KYuWTraAhWLc6XtkyBoYspTuh2Yk-YFiJJ7kZiQRg5wk7YF43Ol7ZCA.yQQkdzqBwWNAlJEeNctcs_UYPJdhWa_h4aO97WUaR34</picture>
+    </offer>
+    <offer id="8286089515">
+      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_g-klass_5.5_at_2008_179_098_km_8286089515?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>3200000</price>
+      <name>Mercedes-Benz G-класс 5.5 AT, 2008, 179 098 км</name>
+      <picture>https://30.img.avito.st/image/1/1.me47g7aANQdxJMsBBb2myjkjNwOJNDEHiVNUA4ncM_mJIDEdcSTLAY0.MiWCtPdVGe8s6mQfrMzHNqzaY748LjN2sovN2Lxzfnk?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8332191594">
+      <url>https://www.avito.ru/tyumen/avtomobili/opel_antara_2.4_at_2013_270_862_km_8332191594?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>940000</price>
+      <name>Opel Antara 2.4 AT, 2013, 270 862 км</name>
+      <picture>https://40.img.avito.st/image/1/1.6DvNj7aARNKHKLrUkZTqAc8vRtZ_OEDSf18l1n_QQix_LEDIhyi61Hs._xbnckHOxT2g9hstGulLfwDSxeVj9LGjevCjvZUTawY</picture>
+    </offer>
+    <offer id="7998124606">
+      <url>https://www.avito.ru/tyumen/avtomobili/lexus_is_2.5_at_2007_279_800_km_7998124606?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>1299900</price>
+      <name>Lexus IS 2.5 AT, 2007, 279 800 км</name>
+      <picture>https://00.img.avito.st/image/1/1.gwOLG7aAL-rBvNHsgVGKOYm7Le45rCvqOctO7jlEKRQ5uCvwwbzR7D0.HrxVeqh4IcwFnjdy-qx1yss6f5tL_MyAdgp8pb2BIOM?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8158543387">
+      <url>https://www.avito.ru/tyumen/avtomobili/ford_c-max_1.8_mt_2007_177_077_km_8158543387?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiNmdoRDh0UzNZckE5WHdQdiI7fbloQdxYAAAA</url>
+      <price>390000</price>
+      <name>Ford C-MAX 1.8 MT, 2007, 177 077 км</name>
+      <picture>https://c90.img.avito.st/image/1/1.5ev38baASQK9VrcEsY7Dz_VRSwZFRk0CRSEoBkWuT_xFUk0YvVa3BEE.3wdiQe3Wom9vbL0s7J-XNI1Vsi0GQUOovNunsizQr2Q</picture>
+    </offer>
+    <offer id="8489951852">
+      <url>https://www.avito.ru/tyumen/avtomobili/kia_soul_1.6_at_2008_394_579_km_8489951852?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>720000</price>
+      <name>Kia Soul 1.6 AT, 2008, 394 579 км</name>
+      <picture>https://90.img.avito.st/image/1/1.Im5DE7aAjocJtHCBC2cdP0KzjIPxpIqH8cPvg_FMiHnxsIqdCbRwgfU.VSIvzfBl09VykrdyGDFlMlb8eGQBACj-Xj-ASVvCbhg</picture>
+    </offer>
+    <offer id="8286127693">
+      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_sonata_2.0_at_2020_72_929_km_8286127693?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>2080000</price>
+      <name>Hyundai Sonata 2.0 AT, 2020, 72 929 км</name>
+      <picture>https://70.img.avito.st/image/1/1.WQUog7aA9exiJAvqFqZXPCoj9-iaNPHsmlOU6Jrc8xKaIPH2YiQL6p4.mDcbWKpnK1ErXk1Gkl853LaoUYinEE8UqmsfwyjOz6s</picture>
+    </offer>
+    <offer id="8348788239">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.5_at_2015_175_071_km_8348788239?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>2299000</price>
+      <name>Toyota RAV4 2.5 AT, 2015, 175 071 км</name>
+      <picture>https://c80.img.avito.st/image/1/1._nuQZ7aAUpLawKyU4CiYFoLHUJYi0FaSIrczliI4VGwixFaI2sCslCY.jBlagp4pkBOeIWIjQwsXjWVzqSt9AQaPFXnsG6ikxmQ</picture>
+    </offer>
+    <offer id="8094295526">
+      <url>https://www.avito.ru/tyumen/avtomobili/opel_astra_1.8_at_2010_185_311_km_8094295526?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>495000</price>
+      <name>Opel Astra 1.8 AT, 2010, 185 311 км</name>
+      <picture>https://10.img.avito.st/image/1/1.nqu-AbaAMkL0psxEjl-8j7yhMEYMtjZCDNFTRgxeNLwMojZY9KbMRAg.e_fLsrQPvPtetCDf1SltpTXacihugXqwN4Q3WdSgPXM?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8379820951">
+      <url>https://www.avito.ru/tyumen/avtomobili/honda_n-wgn_0.7_cvt_2015_141_613_km_8379820951?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>830000</price>
+      <name>Honda N-WGN 0.7 CVT, 2015, 141 613 км</name>
+      <picture>https://70.img.avito.st/image/1/1.TAYz-7aA4O95XB7pJ6pwQTNb4uuBTOTvgSuB64Gk5hGBWOT1eVwe6YU.Nng45XERoTfRMLC2emzVpZxiENE504gUwxf6o-X8iss</picture>
+    </offer>
+    <offer id="8126445651">
+      <url>https://www.avito.ru/tyumen/avtomobili/nissan_x-trail_2.0_cvt_2013_149_400_km_8126445651?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>1499000</price>
+      <name>Nissan X-Trail 2.0 CVT, 2013, 149 400 км</name>
+      <picture>https://00.img.avito.st/image/1/1.J481eraAi2Z_3XVgd2YltTfaiWKHzY9mh6rqYocljZiH2Y98f911YIM.chwGeoU_0bdnFwWjdkC9ArMKXpYGCC7mRHKH4iF-do8?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8304481200">
+      <url>https://www.avito.ru/tyumen/avtomobili/infiniti_q50_3.0_at_2017_123_535_km_8304481200?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>3450000</price>
+      <name>Infiniti Q50 3.0 AT, 2017, 123 535 км</name>
+      <picture>https://50.img.avito.st/image/1/1.pMfHo7aACC6NBPYog4Wb48UDCip1FAwudXNpKnX8DtB1AAw0jQT2KHE.d12eAKJ6BVkp8NJN62bd9zAyFM-L52grfdIAIHXVIWs</picture>
+    </offer>
+    <offer id="8286155536">
+      <url>https://www.avito.ru/tyumen/avtomobili/nissan_x-trail_2.0_cvt_2008_258_069_km_8286155536?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>950000</price>
+      <name>Nissan X-Trail 2.0 CVT, 2008, 258 069 км</name>
+      <picture>https://50.img.avito.st/image/1/1.heG5V7aAKQjz8NcOvwWW2rv3KwwL4C0IC4dIDAsIL_YL9C0S8_DXDg8.IBqofkjRHYMHb1nrgd6HyIMhdWxl_-XXiXEiQw4rY_E</picture>
+    </offer>
+    <offer id="8336928827">
+      <url>https://www.avito.ru/tyumen/avtomobili/kia_stinger_3.3_at_2018_101_602_km_8336928827?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>2995000</price>
+      <name>Kia Stinger 3.3 AT, 2018, 101 602 км</name>
+      <picture>https://80.img.avito.st/image/1/1.fUG2uraA0aj8HS-uwLsDZbQa06wEDdWoBGqwrATl11YEGdWy_B0vrgA.JJRnQGMnuEN_ckVAa4UJOXTj7anV4kOuPb5_PJGiIzs</picture>
+    </offer>
+    <offer id="7198846320">
+      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_s-klass_4.7_at_2015_196_553_km_7198846320?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>3350000</price>
+      <name>Mercedes-Benz S-класс 4.7 AT, 2015, 196 553 км</name>
+      <picture>https://c80.img.avito.st/image/1/1.RVm25raA6bD8QRe2sOtnfbRG67QEUe2wBDaItAS5704ERe2q_EEXtgA.DJi34S-aEpWcW-rwtFwRQ9UlIH1BZPMI2XuLsbMwWEw</picture>
+    </offer>
+    <offer id="8453639527">
+      <url>https://www.avito.ru/tyumen/avtomobili/skoda_octavia_1.8_amt_2013_187_738_km_8453639527?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>1400000</price>
+      <name>Skoda Octavia 1.8 AMT, 2013, 187 738 км</name>
+      <picture>https://20.img.avito.st/image/1/1.ecH2AbaA1Si8pisuiEQUrfah1yxEttEoRNG0LERe09ZEotEyvKYrLkA.rO6bz9AYRk02LiAe3t3rAdjvuItwq1WTv3KDR6QNUhg?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8062644677">
+      <url>https://www.avito.ru/tyumen/avtomobili/bmw_x5_4.4_at_2012_200_444_km_8062644677?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoia3RFcFRETGZHYWVYeG1PUSI7fQvpY7JYAAAA</url>
+      <price>1444000</price>
+      <name>BMW X5 4.4 AT, 2012, 200 444 км</name>
+      <picture>https://10.img.avito.st/image/1/1.y-vWq7aAZwKcDJkEzPy0z9QLZQZkHGMCZHsGBmT0YfxkCGMYnAyZBGA.bt7g57banGE7jEpCSjzhxvYfbFMdbND2LtDBq_4UBZA?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8370809066">
+      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_granta_1.6_mt_2025_19_000_km_8370809066?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>999000</price>
+      <name>ВАЗ (LADA) Granta 1.6 MT, 2025, 19 000 км</name>
+      <picture>https://30.img.avito.st/image/1/1.MLohS7aAnFNr7GJVTQdd5CDrnleT_JhTk5v9V5MUmq2T6JhJa-xiVZc.4wJpsgVwcMn74Z3IKH2qSURQeCa93L_PvTgFJmIxoWc?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8481866465">
+      <url>https://www.avito.ru/tyumen/avtomobili/mazda_6_2.0_at_2020_132_482_km_8481866465?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>2350000</price>
+      <name>Mazda 6 2.0 AT, 2020, 132 482 км</name>
+      <picture>https://00.img.avito.st/image/1/1.frz2obaA0lW8BixThqgLmPQB0FFEFtZVRHGzUUT-1KtEAtZPvAYsU0A.uz7thsArz7bq7qDzC_qmm0BSNcD0d-e5bkU4CuiEh3g?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8368005607">
+      <url>https://www.avito.ru/tyumen/avtomobili/kia_rio_1.4_mt_2010_432_544_km_8368005607?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>369000</price>
+      <name>Kia Rio 1.4 MT, 2010, 432 544 км</name>
+      <picture>https://50.img.avito.st/image/1/1.DwEuM7aAo-hklF3uPDMrYS2ToeychKfonOPC7JxspRackKfyZJRd7pg.J36RMJf8vRZV6odFnQtkaMEfB_-S8-2yX97OVQZuWC4</picture>
+    </offer>
+    <offer id="8190031707">
+      <url>https://www.avito.ru/tyumen/avtomobili/mazda_cx-5_2.5_at_2016_175_242_km_8190031707?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>2099000</price>
+      <name>Mazda CX-5 2.5 AT, 2016, 175 242 км</name>
+      <picture>https://c80.img.avito.st/image/1/1.luL247aAOgu8RMQN1rW7xvRDOA9EVD4LRDNbD0S8PPVEQD4RvETEDUA.y6p5Jr2LpbBYbH9maU8UotqaWtMPXy8_leqKptuDUig</picture>
+    </offer>
+    <offer id="8094374759">
+      <url>https://www.avito.ru/tyumen/avtomobili/bmw_x6_m_4.4_at_2011_217_753_km_8094374759?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>2050000</price>
+      <name>BMW X6 M 4.4 AT, 2011, 217 753 км</name>
+      <picture>https://40.img.avito.st/image/1/1.VxYkILaA-_9uhwX5BlFGLSaA-fuWl___lvCa-5Z__QGWg__lbocF-ZI.1GrPmh9ToCGgfRjY5QOKpMX8DFTWldbDwvPI-7_FuKY</picture>
+    </offer>
+    <offer id="8347759468">
+      <url>https://www.avito.ru/tyumen/avtomobili/skoda_kodiaq_1.4_amt_2019_169_133_km_8347759468?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>2270000</price>
+      <name>Skoda Kodiaq 1.4 AMT, 2019, 169 133 км</name>
+      <picture>https://60.img.avito.st/image/1/1.UmrZ7baA_oOTSgCF8eB1AM1N_IdrWvqDaz2fh2uy-H1rTvqZk0oAhW8.Jo_rbwxzvpdvXkT1e_GZB3bo2RJImzjYhCzDVXaapZw</picture>
+    </offer>
+    <offer id="8094131173">
+      <url>https://www.avito.ru/tyumen/avtomobili/subaru_forester_2.0_cvt_2013_311_667_km_8094131173?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>1200000</price>
+      <name>Subaru Forester 2.0 CVT, 2013, 311 667 км</name>
+      <picture>https://80.img.avito.st/image/1/1.8HvNh7aAXJKHIKKUoZjzQc8nXpZ_MFiSf1c9ln_YWmx_JFiIhyCilHs.yahP3RyVZ7KOCGXX2K4qJCPGHR27fijt1FX4oPQqC3I</picture>
+    </offer>
+    <offer id="8317943484">
+      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_gla-klass_1.3_amt_2021_91_804_km_8317943484?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>2999000</price>
+      <name>Mercedes-Benz GLA-класс 1.3 AMT, 2021, 91 804 км</name>
+      <picture>https://c80.img.avito.st/image/1/1.y-vzK7aAZwK5jJkE6Uy9z_GLZQZBnGMCQfsGBkF0YfxBiGMYuYyZBEU.qg2eJAMRjOGQVrYdzuBFT-g_3mzMUfOEyhETlEJr3b0</picture>
+    </offer>
+    <offer id="8368620098">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.4_at_2012_188_518_km_8368620098?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>1700000</price>
+      <name>Toyota RAV4 2.4 AT, 2012, 188 518 км</name>
+      <picture>https://90.img.avito.st/image/1/1.EGN18baAvIo_VkKMWY0ddztQvo7HRriKxyHdjseuunTHUriQP1ZCjMM.sXfWMdXfwNwLJu5aDRU8r-IevPNMqwiLZd-RX0rlYv8</picture>
+    </offer>
+    <offer id="8286845338">
+      <url>https://www.avito.ru/tyumen/avtomobili/audi_a4_2.0_at_2011_259_733_km_8286845338?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>1190000</price>
+      <name>Audi A4 2.0 AT, 2011, 259 733 км</name>
+      <picture>https://00.img.avito.st/image/1/1.U56eo7aA_3fUBAFxtNIpupwD_XMsFPt3LHOecyz8-YksAPtt1AQBcSg.aEiozroGTvPBDr_LWWAR5CHdxGFBzdvYaM9RrJNLa4U?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8409216963">
+      <url>https://www.avito.ru/tyumen/avtomobili/honda_freed_1.5_cvt_2010_142_116_km_8409216963?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>1050000</price>
+      <name>Honda Freed 1.5 CVT, 2010, 142 116 км</name>
+      <picture>https://60.img.avito.st/image/1/1.3Xm24baAcZD8Ro-WgP74XbRBc5QEVnWQBDEQlAS-d24EQnWK_EaPlgA.BzOpIpEdg7greCvLcQk2dpu4B6u1wo_yNEOXnYI1yzA</picture>
+    </offer>
+    <offer id="8410363336">
+      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_sonata_2.0_at_2020_146_191_km_8410363336?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWk9CTFVPdERTOTcyUXpVNSI7fSbH74RYAAAA</url>
+      <price>2150000</price>
+      <name>Hyundai Sonata 2.0 AT, 2020, 146 191 км</name>
+      <picture>https://20.img.avito.st/image/1/1.hxHXNraAK_idkdX-1RS3OZuXKfxlgS_4ZeZK_GVpLQZllS_inZHV_mE.OUomhIxBT7KQjcw410Za0tTesejG0ZozNZr9HQX4OC8?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8221969420">
+      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_amarok_2.0_at_2013_331_475_km_8221969420?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>1895000</price>
+      <name>Volkswagen Amarok 2.0 AT, 2013, 331 475 км</name>
+      <picture>https://50.img.avito.st/image/1/1.p-xoI7aACwUihPUDKknfyGqDCQHalA8F2vNqAdp8DfvagA8fIoT1A94.of7AGa1BsAy6P9Jr2zutqDTfmJqQDVK5FQty54GEEu8</picture>
+    </offer>
+    <offer id="8347996012">
+      <url>https://www.avito.ru/tyumen/avtomobili/ford_mondeo_1.6_mt_2011_285_710_km_8347996012?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>690000</price>
+      <name>Ford Mondeo 1.6 MT, 2011, 285 710 км</name>
+      <picture>https://c60.img.avito.st/image/1/1.bqD3nLaAwkm9OzxPp7UAsPQ8wE1FK8ZJRUyjTUXDxLdFP8ZTvTs8T0E.zUedhws1_viPmBTitrCu36pQz750UYLedf0YMYEmJTQ</picture>
+    </offer>
+    <offer id="8158612847">
+      <url>https://www.avito.ru/tyumen/avtomobili/skoda_octavia_1.4_amt_2019_174_842_km_8158612847?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>1790000</price>
+      <name>Skoda Octavia 1.4 AMT, 2019, 174 842 км</name>
+      <picture>https://50.img.avito.st/image/1/1.zevxebaAYQK73p8E50Ltz_PZYwZDzmUCQ6kABkMmZ_xD2mUYu96fBEc.DZTslzT35UfNlNFQ77ygHkfOAxU72kWN8QiUsj_TVSA</picture>
+    </offer>
+    <offer id="8524849831">
+      <url>https://www.avito.ru/tyumen/avtomobili/honda_civic_1.8_amt_2008_213_476_km_8524849831?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>495000</price>
+      <name>Honda Civic 1.8 AMT, 2008, 213 476 км</name>
+      <picture>https://10.img.avito.st/image/1/1.9u1cUbaAWgQW9qQCPB6B5kvxWADu5l4E7oE7AO4OXPru8l4eFvakAuo.aPguuXjzV-p3dUGq2T-YTRoz8aX8NEl2O1QVvcUcKkw?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8286420787">
+      <url>https://www.avito.ru/tyumen/avtomobili/kia_ceed_1.6_at_2012_305_482_km_8286420787?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>890000</price>
+      <name>Kia Ceed 1.6 AT, 2012, 305 482 км</name>
+      <picture>https://c80.img.avito.st/image/1/1.0JC487aAfHnyVIJ_lMDWqrpTfn0KRHh5CiMdfQqseocKUHhj8lSCfw4.MSxp6XkEsOgdaGlgOXUeL-yTMner8Y5I71Cel4mCgYM</picture>
+    </offer>
+    <offer id="8283032846">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_camry_2.4_at_2008_442_449_km_8283032846?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>980000</price>
+      <name>Toyota Camry 2.4 AT, 2008, 442 449 км</name>
+      <picture>https://40.img.avito.st/image/1/1.t2huXbaAG4Ek-uWHDHezUmz9GYXc6h-B3I16hdwCHX_c_h-bJPrlh9g.-8RKfIIrl3mdeb_qAlil_gnFRDFSeuz9GJcELd_ti3U</picture>
+    </offer>
+    <offer id="8318853712">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_corolla_1.6_cvt_2013_206_917_km_8318853712?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>1320000</price>
+      <name>Toyota Corolla 1.6 CVT, 2013, 206 917 км</name>
+      <picture>https://40.img.avito.st/image/1/1.ae-2g7aAxQb8JDsA6NZOy7QjxwIENMEGBFOkAgTcw_gEIMEc_CQ7AAA.r1CGgC_EqofNDIf35YmRW51gbXHQilSG_x20Ie--4Mw</picture>
+    </offer>
+    <offer id="8498927266">
+      <url>https://www.avito.ru/tyumen/avtomobili/gaz_gazel_next_2.7_mt_2023_291_450_km_8498927266?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>1980000</price>
+      <name>ГАЗ ГАЗель Next 2.7 MT, 2023, 291 450 км</name>
+      <picture>https://50.img.avito.st/image/1/1.03uXCraAf5LdrYGUvWm8F5SqfZYlvXuSJdoeliVVeWwlqXuI3a2BlCE.ACYdt3yjuAqSDx-MUEzPsNpfyYecezFSa7ui2os4Sgc</picture>
+    </offer>
+    <offer id="8286409154">
+      <url>https://www.avito.ru/tyumen/avtomobili/kia_ceed_1.6_at_2012_166_913_km_8286409154?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>1150000</price>
+      <name>Kia Ceed 1.6 AT, 2012, 166 913 км</name>
+      <picture>https://c80.img.avito.st/image/1/1.POxzMraAkAU5lW4DB3ZQ13GSkgHBhZQFweLxAcFtlvvBkZQfOZVuA8U.kyko5nSVqat3yhk74Po71SO57eaYKjGK4a79GBNVcLc</picture>
+    </offer>
+    <offer id="8030773016">
+      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_granta_1.6_mt_2022_76_264_km_8030773016?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>790000</price>
+      <name>ВАЗ (LADA) Granta 1.6 MT, 2022, 76 264 км</name>
+      <picture>https://30.img.avito.st/image/1/1.W9Rvi7aA9z0lLAk7VfpK720r9TndPPM93VuWOd3U8cPdKPMnJSwJO9k.crLVl45AFt0880g_Np9VbLPi1QYgqQxHg4dLWyvrcG4?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8254345031">
+      <url>https://www.avito.ru/tyumen/avtomobili/nissan_teana_2.0_at_2006_316_761_km_8254345031?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>770000</price>
+      <name>Nissan Teana 2.0 AT, 2006, 316 761 км</name>
+      <picture>https://30.img.avito.st/image/1/1.pOZro7aACA8hBPYJL6nYwmkDCgvZFAwP2XNpC9n8DvHZAAwVIQT2Cd0.oMqtqoPkGRZjLTA72e72gPyrcVebJl880V5lkhpPhxo?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8488970091">
+      <url>https://www.avito.ru/tyumen/avtomobili/honda_civic_1.8_amt_2008_257_502_km_8488970091?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiWlN1SnlxdVdNWFhnRG4zTiI7fRtZfaxYAAAA</url>
+      <price>670000</price>
+      <name>Honda Civic 1.8 AMT, 2008, 257 502 км</name>
+      <picture>https://00.img.avito.st/image/1/1.1qFQ_baAekgaWoROcNKDq1NdeEziSn5I4i0bTOKifLbiXn5SGlqETuY.GyERAaxlRfuSAq4836aLPTlGhBxIwZGrUyvbqexWlKE?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="8318490701">
+      <url>https://www.avito.ru/tyumen/avtomobili/toyota_camry_2.5_at_2019_108_056_km_8318490701?context=H4sIAAAAAAAA_wFYAKf_YTozOntzOjEzOiJhdXRvTG9hbnNNYXNrIjtpOjA7czoxMzoibG9jYWxQcmlvcml0eSI7YjowO3M6MToieCI7czoxNjoiaHNGRHFCbnZQNmIwS3FkQyI7fVeJ5gBYAAAA</url>
+      <price>2799000</price>
+      <name>Toyota Camry 2.5 AT, 2019, 108 056 км</name>
+      <picture>https://00.img.avito.st/image/1/1.me-jg7aANQbpJMsAnf2_y6EjNwIRNDEGEVNUAhHcM_gRIDEc6STLABU.nnoJF8veRK0fUFZzfImawVjRDJtUCYKeioz9YrFTVSI?cqp=2.2LhnDdKx1gU5sZ7QAbwhSdJoeYt5K_KL9JwGcCXpGrDVbBxJ1yJf9Jn7hY3rGWaiHtSha9zz1w==</picture>
+    </offer>
+    <offer id="promo-kia-seltos">
+      <url>https://www.avito.ru/orion-avto-promo/kia-seltos</url>
+      <price>2250000</price>
+      <name>Kia Seltos 2.0 AT, 2024, 10 000 км</name>
+      <picture>https://c80.img.avito.st/image/1/promo-kia-seltos.jpg</picture>
+    </offer>
+  </offers>
 </yml_catalog>

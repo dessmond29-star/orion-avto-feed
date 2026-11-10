@@ -1,450 +1,394 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-10 18:45">
+<yml_catalog date="2026-11-10 19:03">
   <shop>
-    <name>ОРИОН-АВТО</name>
-    <company>ОРИОН-АВТО</company>
-    <url>https://www.avito.ru/brands/orion-avto</url>
-  </shop>
-  <offers>
-    <offer id="8453639527">
-      <url>https://www.avito.ru/tyumen/avtomobili/skoda_octavia_1.8_mt_2013_187_738_km_8453639527</url>
-      <price>1400000</price>
-      <name>Skoda Octavia 1.8 Mt 2013 187 738 Km</name>
+    <name>ОрионАвто</name>
+    <company>ОрионАвто Автосалон Тюмень</company>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Автомобили с пробегом</category>
+      <category id="2">Промо</category>
+    </categories>
+    <offers>
+    <offer id="promo-kia-seltos" available="true">
+      <name>KIA Seltos</name>
+      <price>1950000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://avatars.mds.yandex.net/get-sprav-products/5234963/2a0000019eab30cf1edaf1bfb3ab4924d750/orig</picture>
+      <description>Ищете надёжный кроссовер с отличной комплектацией? Мы доставим его прямо из Китая в кратчайшие сроки. Стоимость: от 1 950 000 рублей. Кредит: от 17 000 рублей в месяц - быстрое одобрение, более 15 банков, выгодные условия. Что вы получаете с нами? Авто с официальной гарантией. Полное оформление и доставка в Россию. Возможность выбрать комплектацию и цвет. Мы делаем процесс покупки максимально простым и прозрачным - от заявки до получения автомобиля. Запишитесь на консультацию: +79324884050</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>promo-kia-seltos</vendorCode>
     </offer>
-    <offer id="8390982300">
-      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_ix35_2.0_mt_2014_157_628_km_8390982300</url>
-      <price>1250000</price>
-      <name>Hyundai Ix35 2.0 Mt 2014 157 628 Km</name>
+    <offer id="А-001" available="true">
+      <name>Audi Q3</name>
+      <price>3015000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <description>Audi Q3. Категория: Внедорожник. Б/У. Цена: 3015000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>А-001</vendorCode>
     </offer>
-    <offer id="7326662300">
-      <url>https://www.avito.ru/tyumen/avtomobili/porsche_macan_gts_3.0_amt_2017_119_500_km_7326662300</url>
-      <price>3300000</price>
-      <name>Porsche Macan Gts 3.0 Amt 2017 119 500 Km</name>
+    <offer id="А-002" available="true">
+      <name>Honda Envix (Crider)</name>
+      <price>1300000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_03.png</picture>
+      <description>Honda Envix (Crider). Категория: СЕДАН. Б/У. Цена: 1300000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>А-002</vendorCode>
     </offer>
-    <offer id="8440819434">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.0_mt_2014_377_305_km_8440819434</url>
-      <price>1790000</price>
-      <name>Toyota Rav4 2.0 Mt 2014 377 305 Km</name>
+    <offer id="А-003" available="true">
+      <name>Honda Crider</name>
+      <price>1236000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_04.png</picture>
+      <description>Honda Crider. Категория: Седан. Б/У. Цена: 1236000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>А-003</vendorCode>
     </offer>
-    <offer id="8286239617">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_avensis_1.8_mt_2004_318_766_km_8286239617</url>
-      <price>620000</price>
-      <name>Toyota Avensis 1.8 Mt 2004 318 766 Km</name>
+    <offer id="А-004" available="true">
+      <name>TOYOTA RAV4</name>
+      <price>3900000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_05.png</picture>
+      <description>TOYOTA RAV4. Категория: ПАРКЕТНИК. НОВЫЙ. Цена: 3900000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>А-004</vendorCode>
     </offer>
-    <offer id="8577209074">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_camry_2.0_at_2019_63_082_km_8577209074</url>
-      <price>2470000</price>
-      <name>Toyota Camry 2.0 At 2019 63 082 Km</name>
+    <offer id="A-005" available="true">
+      <name>YOYOTA COROLLA LEVIN</name>
+      <price>1600000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_06.png</picture>
+      <description>YOYOTA COROLLA LEVIN. Категория: СЕДАН. Б/У. Цена: 1600000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-005</vendorCode>
     </offer>
-    <offer id="8365927982">
-      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_e-klass_2.0_at_2018_214_057_km_8365927982</url>
-      <price>2570000</price>
-      <name>Mercedes-Benz E-Klass 2.0 At 2018 214 057 Km</name>
+    <offer id="А-006" available="true">
+      <name>TOYOTA COROLLA</name>
+      <price>1600000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_07.png</picture>
+      <description>TOYOTA COROLLA. Категория: СЕДАН. Б/У. Цена: 1600000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>А-006</vendorCode>
     </offer>
-    <offer id="8434942657">
-      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.6_mt_2017_136_032_km_8434942657</url>
-      <price>750000</price>
-      <name>Hyundai Solaris 1.6 Mt 2017 136 032 Km</name>
+    <offer id="А-007" available="true">
+      <name>TOYOTA Bz3X</name>
+      <price>2650000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_08.png</picture>
+      <description>TOYOTA Bz3X. Категория: ПАРКЕТНИК. НОВЫЙ. Цена: 2650000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>А-007</vendorCode>
     </offer>
-    <offer id="8441914356">
-      <url>https://www.avito.ru/tyumen/avtomobili/suzuki_grand_vitara_2.4_at_2011_229_402_km_8441914356</url>
-      <price>995000</price>
-      <name>Suzuki Grand Vitara 2.4 At 2011 229 402 Km</name>
+    <offer id="А-008" available="true">
+      <name>MAZDA CX-5</name>
+      <price>2600000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_09.png</picture>
+      <description>MAZDA CX-5. Категория: ПАРКЕТНИК. НОВЫЙ. Цена: 2600000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>А-008</vendorCode>
     </offer>
-    <offer id="8427818700">
-      <url>https://www.avito.ru/tyumen/avtomobili/bmw_x6_3.0_at_2008_340_591_km_8427818700</url>
-      <price>1455000</price>
-      <name>Bmw X6 3.0 At 2008 340 591 Km</name>
+    <offer id="А-009" available="true">
+      <name>CHANGAN UNI-Z</name>
+      <price>2200000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_10.png</picture>
+      <description>CHANGAN UNI-Z. НОВЫЙ. Цена: 2200000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>А-009</vendorCode>
     </offer>
-    <offer id="8158612847">
-      <url>https://www.avito.ru/tyumen/avtomobili/skoda_octavia_1.4_amt_2019_174_842_km_8158612847</url>
-      <price>1790000</price>
-      <name>Skoda Octavia 1.4 Amt 2019 174 842 Km</name>
+    <offer id="А-010" available="true">
+      <name>CHANGAN Q-05</name>
+      <price>2300000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_11.png</picture>
+      <description>CHANGAN Q-05. Категория: ПАРКЕТНИК. НОВЫЙ. Цена: 2300000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>А-010</vendorCode>
     </offer>
-    <offer id="8283032846">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_camry_2.4_at_2008_442_449_km_8283032846</url>
-      <price>980000</price>
-      <name>Toyota Camry 2.4 At 2008 442 449 Km</name>
+    <offer id="A-011" available="true">
+      <name>CHANGAN A-06</name>
+      <price>2800000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_12.png</picture>
+      <description>CHANGAN A-06. Категория: СПОРТБЕК. НОВЫЙ. Цена: 2800000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-011</vendorCode>
     </offer>
-    <offer id="8029957834">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_land_cruiser_4.6_at_2020_151_526_km_8029957834</url>
-      <price>7950000</price>
-      <name>Toyota Land Cruiser 4.6 At 2020 151 526 Km</name>
+    <offer id="A-012" available="true">
+      <name>GAC GS8</name>
+      <price>4300000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_13.png</picture>
+      <description>GAC GS8. Категория: ДЖИП. НОВЫЙ. Цена: 4300000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-012</vendorCode>
     </offer>
-    <offer id="8410363336">
-      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_sonata_2.0_at_2020_146_191_km_8410363336</url>
-      <price>2150000</price>
-      <name>Hyundai Sonata 2.0 At 2020 146 191 Km</name>
-    </offer>
-    <offer id="8347996012">
-      <url>https://www.avito.ru/tyumen/avtomobili/ford_mondeo_1.6_mt_2011_285_710_km_8347996012</url>
-      <price>670000</price>
-      <name>Ford Mondeo 1.6 Mt 2011 285 710 Km</name>
-    </offer>
-    <offer id="8286765776">
-      <url>https://www.avito.ru/tyumen/avtomobili/xcite_x-cross_7_1.5_cvt_2024_23_897_km_8286765776</url>
-      <price>2000000</price>
-      <name>Xcite X-Cross 7 1.5 Cvt 2024 23 897 Km</name>
-    </offer>
-    <offer id="7678203884">
-      <url>https://www.avito.ru/tyumen/avtomobili/lexus_es_2.5_at_2019_119_617_km_7678203884</url>
-      <price>3645000</price>
-      <name>Lexus Es 2.5 At 2019 119 617 Km</name>
-    </offer>
-    <offer id="8395389047">
-      <url>https://www.avito.ru/tyumen/avtomobili/infiniti_qx56_5.6_at_2012_167_516_km_8395389047</url>
+    <offer id="A-013" available="true">
+      <name>VW THARU XR</name>
       <price>2050000</price>
-      <name>Infiniti Qx56 5.6 At 2012 167 516 Km</name>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_14.png</picture>
+      <description>VW THARU XR. Категория: ПАРКЕТНИК. Б/У. Цена: 2050000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-013</vendorCode>
     </offer>
-    <offer id="8423302791">
-      <url>https://www.avito.ru/tyumen/avtomobili/lexus_nx_2.0_cvt_2015_68_395_km_8423302791</url>
-      <price>2700000</price>
-      <name>Lexus Nx 2.0 Cvt 2015 68 395 Km</name>
+    <offer id="A-014" available="true">
+      <name>VW TERAMONT</name>
+      <price>5300000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_15.png</picture>
+      <description>VW TERAMONT. Категория: ДЖИП. НОВЫЙ. Цена: 5300000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-014</vendorCode>
     </offer>
-    <offer id="8488970091">
-      <url>https://www.avito.ru/tyumen/avtomobili/honda_civic_1.8_amt_2008_257_502_km_8488970091</url>
-      <price>670000</price>
-      <name>Honda Civic 1.8 Amt 2008 257 502 Km</name>
+    <offer id="A-015" available="true">
+      <name>VW TIGUAN </name>
+      <price>4300000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_16.png</picture>
+      <description>VW TIGUAN . Категория: ПАРКЕТНИК. НОВЫЙ. Цена: 4300000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-015</vendorCode>
     </offer>
-    <offer id="8094295526">
-      <url>https://www.avito.ru/tyumen/avtomobili/opel_astra_1.8_at_2010_185_311_km_8094295526</url>
-      <price>495000</price>
-      <name>Opel Astra 1.8 At 2010 185 311 Km</name>
+    <offer id="A-016" available="true">
+      <name>TOYOTA AURIS</name>
+      <price>1350000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_17.png</picture>
+      <description>TOYOTA AURIS. Категория: ХЕЧБЕК. Б/У. Цена: 1350000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-016</vendorCode>
     </offer>
-    <offer id="8264235969">
-      <url>https://www.avito.ru/tyumen/avtomobili/kia_sportage_2.0_at_2012_183_853_km_8264235969</url>
-      <price>1250000</price>
-      <name>Kia Sportage 2.0 At 2012 183 853 Km</name>
+    <offer id="A-017" available="true">
+      <name>Geely Coolray</name>
+      <price>1750000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_18.png</picture>
+      <description>Geely Coolray. Категория: ПАРКЕТНИК. НОВЫЙ. Цена: 1750000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-017</vendorCode>
     </offer>
-    <offer id="8473493535">
-      <url>https://www.avito.ru/tyumen/avtomobili/geely_coolray_1.5_amt_2021_30_988_km_8473493535</url>
-      <price>1850000</price>
-      <name>Geely Coolray 1.5 Amt 2021 30 988 Km</name>
+    <offer id="A-018" available="true">
+      <name>Mazda Cx-30 
+</name>
+      <price>2250000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_19.png</picture>
+      <description>Mazda Cx-30 
+. Категория: ПАРКЕТНИК. Б/У. Цена: 2250000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-018</vendorCode>
     </offer>
-    <offer id="7966580763">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_land_cruiser_4.2_mt_1994_529_229_km_7966580763</url>
-      <price>1200000</price>
-      <name>Toyota Land Cruiser 4.2 Mt 1994 529 229 Km</name>
-    </offer>
-    <offer id="8577745505">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_land_cruiser_prado_3.0_at_2010_330_464_km_8577745505</url>
-      <price>2550000</price>
-      <name>Toyota Land Cruiser Prado 3.0 At 2010 330 464 Km</name>
-    </offer>
-    <offer id="7998099514">
-      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_multivan_3.2_at_2008_397_673_km_7998099514</url>
-      <price>1490000</price>
-      <name>Volkswagen Multivan 3.2 At 2008 397 673 Km</name>
-    </offer>
-    <offer id="8286062225">
-      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.6_at_2020_67_352_km_8286062225</url>
-      <price>1290000</price>
-      <name>Hyundai Solaris 1.6 At 2020 67 352 Km</name>
-    </offer>
-    <offer id="8190334420">
-      <url>https://www.avito.ru/tyumen/avtomobili/nissan_murano_3.5_cvt_2013_110_246_km_8190334420</url>
-      <price>1500000</price>
-      <name>Nissan Murano 3.5 Cvt 2013 110 246 Km</name>
-    </offer>
-    <offer id="8126700952">
-      <url>https://www.avito.ru/tyumen/avtomobili/volvo_xc90_2.5_at_2007_275_746_km_8126700952</url>
-      <price>850000</price>
-      <name>Volvo Xc90 2.5 At 2007 275 746 Km</name>
-    </offer>
-    <offer id="7998292729">
-      <url>https://www.avito.ru/tyumen/avtomobili/infiniti_fx37_3.7_at_2011_234_808_km_7998292729</url>
-      <price>1670000</price>
-      <name>Infiniti Fx37 3.7 At 2011 234 808 Km</name>
-    </offer>
-    <offer id="8286826149">
-      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_glk-klass_3.5_at_2014_217_069_km_8286826149</url>
-      <price>1500000</price>
-      <name>Mercedes-Benz Glk-Klass 3.5 At 2014 217 069 Km</name>
-    </offer>
-    <offer id="8190088605">
-      <url>https://www.avito.ru/tyumen/avtomobili/lexus_nx_2.0_cvt_2016_95_888_km_8190088605</url>
-      <price>2470000</price>
-      <name>Lexus Nx 2.0 Cvt 2016 95 888 Km</name>
-    </offer>
-    <offer id="8390122387">
-      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_2108_1.5_mt_1997_111_840_km_8390122387</url>
-      <price>250000</price>
-      <name>Vaz Lada 2108 1.5 Mt 1997 111 840 Km</name>
-    </offer>
-    <offer id="8431663875">
-      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_2106_1.3_mt_1987_90_533_km_8431663875</url>
-      <price>250000</price>
-      <name>Vaz Lada 2106 1.3 Mt 1987 90 533 Km</name>
-    </offer>
-    <offer id="7934682725">
-      <url>https://www.avito.ru/tyumen/avtomobili/ldv_maxus_2.5_mt_2009_68_259_km_7934682725</url>
-      <price>1250000</price>
-      <name>Ldv Maxus 2.5 Mt 2009 68 259 Km</name>
-    </offer>
-    <offer id="8607765720">
-      <url>https://www.avito.ru/tyumen/avtomobili/honda_civic_1.8_at_2007_245_043_km_8607765720</url>
-      <price>690000</price>
-      <name>Honda Civic 1.8 At 2007 245 043 Km</name>
-    </offer>
-    <offer id="8422618213">
-      <url>https://www.avito.ru/tyumen/avtomobili/nissan_patrol_2.8_mt_1994_225_893_km_8422618213</url>
-      <price>1800000</price>
-      <name>Nissan Patrol 2.8 Mt 1994 225 893 Km</name>
-    </offer>
-    <offer id="8158317454">
-      <url>https://www.avito.ru/tyumen/avtomobili/skoda_rapid_1.6_mt_2016_218_333_km_8158317454</url>
-      <price>720000</price>
-      <name>Skoda Rapid 1.6 Mt 2016 218 333 Km</name>
-    </offer>
-    <offer id="8254864824">
-      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_tiguan_2.0_at_2012_168_311_km_8254864824</url>
-      <price>1240000</price>
-      <name>Volkswagen Tiguan 2.0 At 2012 168 311 Km</name>
-    </offer>
-    <offer id="7742836756">
-      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_touareg_3.0_at_2020_63_864_km_7742836756</url>
-      <price>6200000</price>
-      <name>Volkswagen Touareg 3.0 At 2020 63 864 Km</name>
-    </offer>
-    <offer id="8286089515">
-      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_g-klass_5.5_at_2008_179_098_km_8286089515</url>
+    <offer id="A-019" available="true">
+      <name>Audi Q3 Sportback </name>
       <price>3200000</price>
-      <name>Mercedes-Benz G-Klass 5.5 At 2008 179 098 Km</name>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_20.png</picture>
+      <description>Audi Q3 Sportback . Категория: Паркетиник. Б/У. Цена: 3200000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-019</vendorCode>
     </offer>
-    <offer id="8222721039">
-      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_multivan_2.8_at_2002_341_344_km_8222721039</url>
-      <price>1050000</price>
-      <name>Volkswagen Multivan 2.8 At 2002 341 344 Km</name>
+    <offer id="A-020" available="true">
+      <name>Vw Tiguan pro</name>
+      <price>4200000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_21.png</picture>
+      <description>Vw Tiguan pro. Категория: Паркетник. НОВЫЙ. Цена: 4200000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-020</vendorCode>
     </offer>
-    <offer id="7934176770">
-      <url>https://www.avito.ru/tyumen/avtomobili/lifan_solano_1.5_cvt_2015_98_955_km_7934176770</url>
-      <price>470000</price>
-      <name>Lifan Solano 1.5 Cvt 2015 98 955 Km</name>
-    </offer>
-    <offer id="8588939713">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.4_at_2011_248_008_km_8588939713</url>
-      <price>1430000</price>
-      <name>Toyota Rav4 2.4 At 2011 248 008 Km</name>
-    </offer>
-    <offer id="8327935782">
-      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_creta_1.6_at_2019_117_792_km_8327935782</url>
-      <price>1890000</price>
-      <name>Hyundai Creta 1.6 At 2019 117 792 Km</name>
-    </offer>
-    <offer id="8190315439">
-      <url>https://www.avito.ru/tyumen/avtomobili/genesis_g70_2.0_at_2018_176_706_km_8190315439</url>
-      <price>2050000</price>
-      <name>Genesis G70 2.0 At 2018 176 706 Km</name>
-    </offer>
-    <offer id="7454144113">
-      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_granta_1.6_mt_2018_105_340_km_7454144113</url>
-      <price>440000</price>
-      <name>Vaz Lada Granta 1.6 Mt 2018 105 340 Km</name>
-    </offer>
-    <offer id="8062644677">
-      <url>https://www.avito.ru/tyumen/avtomobili/bmw_x5_4.4_at_2012_200_444_km_8062644677</url>
-      <price>1500000</price>
-      <name>Bmw X5 4.4 At 2012 200 444 Km</name>
-    </offer>
-    <offer id="8094767501">
-      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.4_at_2019_162_380_km_8094767501</url>
-      <price>1040000</price>
-      <name>Hyundai Solaris 1.4 At 2019 162 380 Km</name>
-    </offer>
-    <offer id="7198643845">
-      <url>https://www.avito.ru/tyumen/avtomobili/nissan_ad_1.5_cvt_2017_64_000_km_7198643845</url>
-      <price>880000</price>
-      <name>Nissan Ad 1.5 Cvt 2017 64 000 Km</name>
-    </offer>
-    <offer id="8126445651">
-      <url>https://www.avito.ru/tyumen/avtomobili/nissan_x-trail_2.0_cvt_2013_149_400_km_8126445651</url>
-      <price>1499000</price>
-      <name>Nissan X-Trail 2.0 Cvt 2013 149 400 Km</name>
-    </offer>
-    <offer id="8158543387">
-      <url>https://www.avito.ru/tyumen/avtomobili/ford_c-max_1.8_mt_2007_177_077_km_8158543387</url>
-      <price>390000</price>
-      <name>Ford C-Max 1.8 Mt 2007 177 077 Km</name>
-    </offer>
-    <offer id="8360807357">
-      <url>https://www.avito.ru/tyumen/avtomobili/kia_rio_1.6_at_2015_206_770_km_8360807357</url>
-      <price>1050000</price>
-      <name>Kia Rio 1.6 At 2015 206 770 Km</name>
-    </offer>
-    <offer id="8379820951">
-      <url>https://www.avito.ru/tyumen/avtomobili/honda_n-wgn_0.7_cvt_2015_141_613_km_8379820951</url>
-      <price>799999</price>
-      <name>Honda N-Wgn 0.7 Cvt 2015 141 613 Km</name>
-    </offer>
-    <offer id="8402581521">
-      <url>https://www.avito.ru/tyumen/avtomobili/mitsubishi_asx_1.8_cvt_2013_97_220_km_8402581521</url>
-      <price>1290000</price>
-      <name>Mitsubishi Asx 1.8 Cvt 2013 97 220 Km</name>
-    </offer>
-    <offer id="8607524231">
-      <url>https://www.avito.ru/tyumen/avtomobili/lexus_es_3.5_at_2013_242_666_km_8607524231</url>
-      <price>2550000</price>
-      <name>Lexus Es 3.5 At 2013 242 666 Km</name>
-    </offer>
-    <offer id="8318171185">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_corolla_1.8_cvt_2013_205_290_km_8318171185</url>
-      <price>1200000</price>
-      <name>Toyota Corolla 1.8 Cvt 2013 205 290 Km</name>
-    </offer>
-    <offer id="8304481200">
-      <url>https://www.avito.ru/tyumen/avtomobili/infiniti_q50_3.0_at_2017_123_535_km_8304481200</url>
-      <price>3450000</price>
-      <name>Infiniti Q50 3.0 At 2017 123 535 Km</name>
-    </offer>
-    <offer id="8378370333">
-      <url>https://www.avito.ru/tyumen/avtomobili/skoda_superb_1.8_amt_2011_260_085_km_8378370333</url>
-      <price>850000</price>
-      <name>Skoda Superb 1.8 Amt 2011 260 085 Km</name>
-    </offer>
-    <offer id="8286127693">
-      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_sonata_2.0_at_2020_72_929_km_8286127693</url>
-      <price>2080000</price>
-      <name>Hyundai Sonata 2.0 At 2020 72 929 Km</name>
-    </offer>
-    <offer id="8368005607">
-      <url>https://www.avito.ru/tyumen/avtomobili/kia_rio_1.4_mt_2010_432_544_km_8368005607</url>
-      <price>369000</price>
-      <name>Kia Rio 1.4 Mt 2010 432 544 Km</name>
-    </offer>
-    <offer id="8336928827">
-      <url>https://www.avito.ru/tyumen/avtomobili/kia_stinger_3.3_at_2018_101_602_km_8336928827</url>
-      <price>3120000</price>
-      <name>Kia Stinger 3.3 At 2018 101 602 Km</name>
-    </offer>
-    <offer id="7198846320">
-      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_s-klass_4.7_at_2015_196_553_km_7198846320</url>
-      <price>3350000</price>
-      <name>Mercedes-Benz S-Klass 4.7 At 2015 196 553 Km</name>
-    </offer>
-    <offer id="7998124606">
-      <url>https://www.avito.ru/tyumen/avtomobili/lexus_is_2.5_at_2007_279_800_km_7998124606</url>
-      <price>1299900</price>
-      <name>Lexus Is 2.5 At 2007 279 800 Km</name>
-    </offer>
-    <offer id="8347759468">
-      <url>https://www.avito.ru/tyumen/avtomobili/skoda_kodiaq_1.4_amt_2019_169_133_km_8347759468</url>
-      <price>2320000</price>
-      <name>Skoda Kodiaq 1.4 Amt 2019 169 133 Km</name>
-    </offer>
-    <offer id="8481866465">
-      <url>https://www.avito.ru/tyumen/avtomobili/mazda_6_2.0_at_2020_132_482_km_8481866465</url>
-      <price>2350000</price>
-      <name>Mazda 6 2.0 At 2020 132 482 Km</name>
-    </offer>
-    <offer id="8317943484">
-      <url>https://www.avito.ru/tyumen/avtomobili/mercedes-benz_gla-klass_1.3_amt_2021_91_804_km_8317943484</url>
-      <price>2999000</price>
-      <name>Mercedes-Benz Gla-Klass 1.3 Amt 2021 91 804 Km</name>
-    </offer>
-    <offer id="8317888312">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_corolla_1.8_cvt_2018_175_837_km_8317888312</url>
-      <price>1659000</price>
-      <name>Toyota Corolla 1.8 Cvt 2018 175 837 Km</name>
-    </offer>
-    <offer id="8094131173">
-      <url>https://www.avito.ru/tyumen/avtomobili/subaru_forester_2.0_cvt_2013_311_667_km_8094131173</url>
-      <price>1150000</price>
-      <name>Subaru Forester 2.0 Cvt 2013 311 667 Km</name>
-    </offer>
-    <offer id="8094374759">
-      <url>https://www.avito.ru/tyumen/avtomobili/bmw_x6_m_4.4_at_2011_217_753_km_8094374759</url>
-      <price>2050000</price>
-      <name>Bmw X6 M 4.4 At 2011 217 753 Km</name>
-    </offer>
-    <offer id="8368620098">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.4_at_2012_188_518_km_8368620098</url>
+    <offer id="A-021" available="true">
+      <name>Kia kx1</name>
       <price>1650000</price>
-      <name>Toyota Rav4 2.4 At 2012 188 518 Km</name>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <description>Kia kx1. Категория: ПАРКЕТНИК. Б/У. Цена: 1650000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-021</vendorCode>
     </offer>
-    <offer id="8190031707">
-      <url>https://www.avito.ru/tyumen/avtomobili/mazda_cx-5_2.5_at_2016_175_242_km_8190031707</url>
-      <price>2099000</price>
-      <name>Mazda Cx-5 2.5 At 2016 175 242 Km</name>
+    <offer id="A-022" available="true">
+      <name>Skoda Kamiq</name>
+      <price>2000000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_23.png</picture>
+      <description>Skoda Kamiq. Категория: ПАРКЕТНИК. Б/У. Цена: 2000000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-022</vendorCode>
     </offer>
-    <offer id="8359938833">
-      <url>https://www.avito.ru/tyumen/avtomobili/hyundai_solaris_1.4_at_2020_94_810_km_8359938833</url>
-      <price>1680000</price>
-      <name>Hyundai Solaris 1.4 At 2020 94 810 Km</name>
+    <offer id="A-023" available="true">
+      <name>Bmw X 1 </name>
+      <price>1250000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_24.png</picture>
+      <description>Bmw X 1 . Категория: ПАРКЕТНИК. Б/У. Цена: 1250000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-023</vendorCode>
     </offer>
-    <offer id="8370809066">
-      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_granta_1.6_mt_2025_19_000_km_8370809066</url>
-      <price>975000</price>
-      <name>Vaz Lada Granta 1.6 Mt 2025 19 000 Km</name>
+    <offer id="A-024" available="true">
+      <name>Audi A3 </name>
+      <price>2150000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_25.png</picture>
+      <description>Audi A3 . Категория: СЕДАН. Б/У. Цена: 2150000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-024</vendorCode>
     </offer>
-    <offer id="8221969420">
-      <url>https://www.avito.ru/tyumen/avtomobili/volkswagen_amarok_2.0_at_2013_331_475_km_8221969420</url>
-      <price>1895000</price>
-      <name>Volkswagen Amarok 2.0 At 2013 331 475 Km</name>
+    <offer id="A-025" available="true">
+      <name>Hyundai ix35 </name>
+      <price>1950000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_26.png</picture>
+      <description>Hyundai ix35 . Категория: ПАРКЕТНИК. Б/У. Цена: 1950000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-025</vendorCode>
     </offer>
-    <offer id="8489951852">
-      <url>https://www.avito.ru/tyumen/avtomobili/kia_soul_1.6_at_2008_394_579_km_8489951852</url>
-      <price>770000</price>
-      <name>Kia Soul 1.6 At 2008 394 579 Km</name>
+    <offer id="A-026" available="true">
+      <name>Mitsubishi ASX</name>
+      <price>2850000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_27.png</picture>
+      <description>Mitsubishi ASX. Категория: ПАРКЕТНИК. НОВЫЙ. Цена: 2850000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-026</vendorCode>
     </offer>
-    <offer id="8286845338">
-      <url>https://www.avito.ru/tyumen/avtomobili/audi_a4_2.0_at_2011_259_733_km_8286845338</url>
-      <price>1190000</price>
-      <name>Audi A4 2.0 At 2011 259 733 Km</name>
+    <offer id="A-027" available="true">
+      <name>Mercedes-Benz C-class</name>
+      <price>2200000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_28.png</picture>
+      <description>Mercedes-Benz C-class. Категория: СЕДАН. Б/У. Цена: 2200000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-027</vendorCode>
     </offer>
-    <offer id="8422122263">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_rav4_2.0_cvt_2026_70_km_8422122263</url>
-      <price>4600000</price>
-      <name>Toyota Rav4 2.0 Cvt 2026 70 Km</name>
+    <offer id="A-028" available="true">
+      <name>Honda XR-V 2023 CVT</name>
+      <price>2200000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_29.png</picture>
+      <description>Honda XR-V 2023 CVT. Категория: ПАРКЕТНИК. Б/У. Цена: 2200000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-028</vendorCode>
     </offer>
-    <offer id="8286155536">
-      <url>https://www.avito.ru/tyumen/avtomobili/nissan_x-trail_2.0_cvt_2008_258_069_km_8286155536</url>
-      <price>950000</price>
-      <name>Nissan X-Trail 2.0 Cvt 2008 258 069 Km</name>
+    <offer id="A-029" available="true">
+      <name>Geely Emgrand S</name>
+      <price>1500000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_30.png</picture>
+      <description>Geely Emgrand S. Цена: 1500000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-029</vendorCode>
     </offer>
-    <offer id="7838780499">
-      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_4x4_niva_1.7_mt_2008_133_830_km_7838780499</url>
-      <price>385000</price>
-      <name>Vaz Lada 4x4 Niva 1.7 Mt 2008 133 830 Km</name>
+    <offer id="A-030" available="true">
+      <name>Subaru Forester </name>
+      <price>3500000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_31.png</picture>
+      <description>Subaru Forester . Категория: ПАРКЕТНИК. Б/У. Цена: 3500000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-030</vendorCode>
     </offer>
-    <offer id="8498927266">
-      <url>https://www.avito.ru/tyumen/avtomobili/gaz_gazel_next_2.7_mt_2023_291_450_km_8498927266</url>
-      <price>1980000</price>
-      <name>Gaz Gazel Next 2.7 Mt 2023 291 450 Km</name>
+    <offer id="A-031" available="true">
+      <name>Volkswagen Golf 8 R-Line</name>
+      <price>2150000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_32.png</picture>
+      <description>Volkswagen Golf 8 R-Line. Категория: ХАЧБЕК. Б/У. Цена: 2150000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-031</vendorCode>
     </offer>
-    <offer id="8318490701">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_camry_2.5_at_2019_108_056_km_8318490701</url>
-      <price>2799000</price>
-      <name>Toyota Camry 2.5 At 2019 108 056 Km</name>
+    <offer id="A-032" available="true">
+      <name>Changan Eado Plus premium </name>
+      <price>1300000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <description>Changan Eado Plus premium . Категория: СЕДАН. Б/У. Цена: 1300000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-032</vendorCode>
     </offer>
-    <offer id="8286420787">
-      <url>https://www.avito.ru/tyumen/avtomobili/kia_ceed_1.6_at_2012_305_482_km_8286420787</url>
-      <price>890000</price>
-      <name>Kia Ceed 1.6 At 2012 305 482 Km</name>
+    <offer id="A-033" available="true">
+      <name>Nissan Qashqai</name>
+      <price>2300000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_34.png</picture>
+      <description>Nissan Qashqai. Категория: ПАРКЕТНИК. НОВЫЙ. Цена: 2300000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-033</vendorCode>
     </offer>
-    <offer id="8286409154">
-      <url>https://www.avito.ru/tyumen/avtomobili/kia_ceed_1.6_at_2012_166_913_km_8286409154</url>
-      <price>1150000</price>
-      <name>Kia Ceed 1.6 At 2012 166 913 Km</name>
+    <offer id="A-034" available="true">
+      <name>Lexus GX550 2025 </name>
+      <price>14800000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_35.png</picture>
+      <description>Lexus GX550 2025 . Категория: ВНЕДОРОЖНИК. НОВЫЙ. Цена: 14800000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-034</vendorCode>
     </offer>
-    <offer id="8332191594">
-      <url>https://www.avito.ru/tyumen/avtomobili/opel_antara_2.4_at_2013_270_862_km_8332191594</url>
-      <price>985000</price>
-      <name>Opel Antara 2.4 At 2013 270 862 Km</name>
+    <offer id="A-035" available="true">
+      <name>Skoda Octavia </name>
+      <price>2300000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_36.png</picture>
+      <description>Skoda Octavia . Категория: СЕДАН. Б/У. Цена: 2300000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-035</vendorCode>
     </offer>
-    <offer id="8318853712">
-      <url>https://www.avito.ru/tyumen/avtomobili/toyota_corolla_1.6_cvt_2013_206_917_km_8318853712</url>
-      <price>1320000</price>
-      <name>Toyota Corolla 1.6 Cvt 2013 206 917 Km</name>
+    <offer id="A-036" available="true">
+      <name>Toyota Yaris </name>
+      <price>1550000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <description>Toyota Yaris . Категория: ХАЧБЭК. Б/У. Цена: 1550000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-036</vendorCode>
     </offer>
-    <offer id="8254345031">
-      <url>https://www.avito.ru/tyumen/avtomobili/nissan_teana_2.0_at_2006_316_761_km_8254345031</url>
-      <price>770000</price>
-      <name>Nissan Teana 2.0 At 2006 316 761 Km</name>
+    <offer id="A-037" available="true">
+      <name>Toyota Camry</name>
+      <price>4100000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://raw.githubusercontent.com/dessmond29-star/orion-avto-feed/main/images/img_38.png</picture>
+      <description>Toyota Camry. Категория: СЕДАН. НОВЫЙ. Цена: 4100000 руб.</description>
+      <vendor>ОрионАвто</vendor>
+      <vendorCode>A-037</vendorCode>
     </offer>
-    <offer id="8030773016">
-      <url>https://www.avito.ru/tyumen/avtomobili/vaz_lada_granta_1.6_mt_2022_76_264_km_8030773016</url>
-      <price>790000</price>
-      <name>Vaz Lada Granta 1.6 Mt 2022 76 264 Km</name>
-    </offer>
-  </offers>
+    </offers>
+  </shop>
 </yml_catalog>

@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-10 18:08">
+<yml_catalog date="2026-11-10 19:00">
   <shop>
     <name>ОРИОН-АВТО</name>
     <company>ОРИОН-АВТО</company>
     <url>https://www.avito.ru/brands/orion-avto</url>
   </shop>
   <offers>
+    <offer id="8318853712">
+      <url>https://www.avito.ru/tyumen/avtomobili/skoda_octavia_1.8_mt_2013_187_738_km_8318853712</url>
+      <price>1400000</price>
+      <name>Skoda Octavia 1.8 MT, 2013, 187 738 км</name>
+      <picture>https://40.img.avito.st/image/1/1.ae-2g7aAxQb8JDsA6NZOy7QjxwIENMEGBFOkAgTcw_gEIMEc_CQ7AAA.r1CGgC_EqofNDIf35YmRW51gbXHQilSG_x20Ie--4Mw</picture>
+    </offer>
   </offers>
 </yml_catalog>
